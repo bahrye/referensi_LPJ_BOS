@@ -1,2522 +1,2102 @@
-[
- {
-   "Daftar Referensi Uraian": "Penyusunan Metode Pembelajaran",
-   "Kode Kegiatan": "3.1.2",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Rancangan penilaian autentik",
-   "Kode Kegiatan": "3.1.3",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Perangkat pembelajaran (Prota, Prosem, RPP, Silabus, Media, dsb.)",
-   "Kode Kegiatan": "3.1.1",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
- },
- {
-   "Daftar Referensi Uraian": "Penerimaan Peserta Didik Baru (PPDB)",
-   "Kode Kegiatan": "3.1.4",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
- },
- {
-   "Daftar Referensi Uraian": "Masa Taaruf Siswa Madrasah",
-   "Kode Kegiatan": "3.1.5",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
- },
- {
-   "Daftar Referensi Uraian": "Workshop Media Pembelajaran",
-   "Kode Kegiatan": "3.2.5",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pemberdayaan Tokoh agama/masyarakat dalam kegiatan pembelajaran",
-   "Kode Kegiatan": "3.2.6",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Kegiatan Ekstrakurikuler",
-   "Kode Kegiatan": "3.2.11",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pemanfaatan Lingkungan sebagai sumber pembelajaran",
-   "Kode Kegiatan": "3.2.10",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Bimbingan Pelajaran oleh Guru",
-   "Kode Kegiatan": "3.2.7",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Kegiatan Belajar Mengajar",
-   "Kode Kegiatan": "3.2.1",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Kegiatan Belajar Mengajar Digital Madrasah",
-   "Kode Kegiatan": "3.2.2",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Layanan Pembelajaran Inklusi",
-   "Kode Kegiatan": "3.2.3",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Praktikum",
-   "Kode Kegiatan": "3.2.4",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pemanfaatan Perpustakaan untuk pembelajaran",
-   "Kode Kegiatan": "3.2.8",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Pemanfaatan  TIK untuk kegiatan pembelajaran",
-   "Kode Kegiatan": "3.2.9",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
- },
- {
-   "Daftar Referensi Uraian": "Penilaian unjuk kerja (Performa)",
-   "Kode Kegiatan": "3.3.5",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan rubrik penilaian proses",
-   "Kode Kegiatan": "3.3.6",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian dan Pemanfaatan Portofolio pembelajaran",
-   "Kode Kegiatan": "3.3.3",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penilaian Proyek",
-   "Kode Kegiatan": "3.3.4",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan test diagnostik",
-   "Kode Kegiatan": "3.3.1",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Test TPA/TKD",
-   "Kode Kegiatan": "3.3.2",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan model penilaian yang inovatif",
-   "Kode Kegiatan": "4.1.1",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan model penilaian yang inovatif",
-   "Kode Kegiatan": "4.1.2",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Pedoman kisi-kisi penilaian",
-   "Kode Kegiatan": "4.1.3",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
- },
- {
-   "Daftar Referensi Uraian": "Penginputan data nilai siswa",
-   "Kode Kegiatan": "4.1.4",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik penilaian  tertulis",
-   "Kode Kegiatan": "4.2.1",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik penilaian  lisan",
-   "Kode Kegiatan": "4.2.2",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik penilaian projek",
-   "Kode Kegiatan": "4.2.3",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik penilaian Performa / kinerja",
-   "Kode Kegiatan": "4.2.4",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik penilaian portofolio",
-   "Kode Kegiatan": "4.2.5",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik Penilaian Sikap, Keterampilan,",
-   "Kode Kegiatan": "4.2.6",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Teknik Penilaian Rubrik",
-   "Kode Kegiatan": "4.2.7",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
- },
- {
-   "Daftar Referensi Uraian": "Analisis hasil ANBK",
-   "Kode Kegiatan": "4.3.4",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
- },
- {
-   "Daftar Referensi Uraian": "Analisis Hasil Penilaian UH, Formatif, Sumatif, PAS, PAT",
-   "Kode Kegiatan": "4.3.1",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
- },
- {
-   "Daftar Referensi Uraian": "Perencanaan dan Pelaksanaan Tindak Lanjut Hasil Penilaian",
-   "Kode Kegiatan": "4.3.2",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Program Remedial/Pengayaan",
-   "Kode Kegiatan": "4.3.3",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Instrumen kisi-kisi Ulangan Tengah Semester",
-   "Kode Kegiatan": "4.4.1",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Instrumen kisi-kisi Ulangan Akhir Semester",
-   "Kode Kegiatan": "4.4.2",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan instrumen kisi-kisi Ulangan Kenaikan Kelas",
-   "Kode Kegiatan": "4.4.3",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Instrumen kisi-kisi Ujian Madrasah",
-   "Kode Kegiatan": "4.4.4",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan instrumen kisi-kisi Ulangan Harian",
-   "Kode Kegiatan": "4.4.5",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan instrumen PAT/PAS",
-   "Kode Kegiatan": "4.4.6",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ulangan Harian",
-   "Kode Kegiatan": "4.5.1",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ujian Tengah Semester",
-   "Kode Kegiatan": "4.5.2",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ujian Akhir Semester",
-   "Kode Kegiatan": "4.5.3",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ujian Kenaikan Kelas",
-   "Kode Kegiatan": "4.5.4",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ujian Madrasah",
-   "Kode Kegiatan": "4.5.5",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Asesmen Nasional atau Sejenisnya",
-   "Kode Kegiatan": "4.5.6",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Uji Kompetensi Kejuruan (UKK)",
-   "Kode Kegiatan": "4.5.7",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Guru Baru",
-   "Kode Kegiatan": "5.1.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
- },
- {
-   "Daftar Referensi Uraian": "Kegiatan KKG/MGMP",
-   "Kode Kegiatan": "5.1.3",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Kepala Madrasah",
-   "Kode Kegiatan": "5.1.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
- },
- {
-   "Daftar Referensi Uraian": "Kegiatan KKKS/MKKS",
-   "Kode Kegiatan": "5.2.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Guru",
-   "Kode Kegiatan": "5.2.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Tenaga Administrasi",
-   "Kode Kegiatan": "5.3.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Administrasi"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Tenaga Administrasi",
-   "Kode Kegiatan": "5.3.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Administrasi"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Tenaga Laboran",
-   "Kode Kegiatan": "5.4.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompentensi Laboran"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Tenaga Laboran",
-   "Kode Kegiatan": "5.4.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompentensi Laboran"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Tenaga Pustakawan",
-   "Kode Kegiatan": "5.5.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Pustakawan"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Tenaga Pustakawan",
-   "Kode Kegiatan": "5.5.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Pustakawan"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Tenaga Kependidikan Lainnya",
-   "Kode Kegiatan": "5.6.1",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Kependidikan Lainnya"
- },
- {
-   "Daftar Referensi Uraian": "Penguatan Kapasitas Bagi Tenaga Kependidikan Lainnya",
-   "Kode Kegiatan": "5.6.2",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Kependidikan Lainnya"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang Kelas Baru",
-   "Kode Kegiatan": "6.1.1",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan fasilitas pembelajaran inklusi",
-   "Kode Kegiatan": "6.1.2",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penambahan perabot / meubelair",
-   "Kode Kegiatan": "6.1.3",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang media",
-   "Kode Kegiatan": "6.2.34",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang media",
-   "Kode Kegiatan": "6.2.35",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang Kelas",
-   "Kode Kegiatan": "6.2.12",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan/Pembuatan instalasi air baru dan/atau sumur",
-   "Kode Kegiatan": "6.2.8",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang Media",
-   "Kode Kegiatan": "6.2.4",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang Ekstrakurikuler/OSIS/UKS",
-   "Kode Kegiatan": "6.2.7",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat fasilitas pembelajaran inklusi",
-   "Kode Kegiatan": "6.2.16",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang laboratorium",
-   "Kode Kegiatan": "6.2.24",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang perpustakaan",
-   "Kode Kegiatan": "6.2.28",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital",
-   "Kode Kegiatan": "6.2.32",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang media",
-   "Kode Kegiatan": "6.2.36",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan fasilitas pembelajaran inklusi",
-   "Kode Kegiatan": "6.2.13",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan perabot / meubelair",
-   "Kode Kegiatan": "6.2.17",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang Kepala madrasah/Guru/Tata Usaha/BP/BK",
-   "Kode Kegiatan": "6.2.6",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Sarana dan Prasarana Perpustakaan termasuk perpustakaan digital",
-   "Kode Kegiatan": "6.2.3",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang kelas",
-   "Kode Kegiatan": "6.2.9",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab berat perabot / meubelair",
-   "Kode Kegiatan": "6.2.20",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang laboratorium",
-   "Kode Kegiatan": "6.2.21",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang perpustakaan",
-   "Kode Kegiatan": "6.2.25",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital",
-   "Kode Kegiatan": "6.2.29",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang media",
-   "Kode Kegiatan": "6.2.33",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang Kepala madrash/Guru/Tata Usaha/BP/BK",
-   "Kode Kegiatan": "6.2.37",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang Kepala madrash/Guru/Tata Usaha/BP/BK",
-   "Kode Kegiatan": "6.2.38",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Sarana dan Prasarana untuk Siswa Miskin",
-   "Kode Kegiatan": "6.2.53",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang Kepala madrash/Guru/Tata Usaha/BP/BK",
-   "Kode Kegiatan": "6.2.40",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang Ekstrakurikuler",
-   "Kode Kegiatan": "6.2.48",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Toilet dan Sarana Sanitasi Air Bersih Madrasah",
-   "Kode Kegiatan": "6.2.42",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Toilet dan Sarana Sanitasi Air Bersih Madrasah",
-   "Kode Kegiatan": "6.2.41",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Toilet dan Sarana Sanitasi Air Bersih Madrasah",
-   "Kode Kegiatan": "6.2.44",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang Ekstrakurikuler",
-   "Kode Kegiatan": "6.2.45",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang Ekstrakurikuler",
-   "Kode Kegiatan": "6.2.46",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang Ekstrakurikuler",
-   "Kode Kegiatan": "6.2.47",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Media Pendidikan",
-   "Kode Kegiatan": "6.2.51",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Media Pendidikan",
-   "Kode Kegiatan": "6.2.56",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Media dan sumber pembelajaran",
-   "Kode Kegiatan": "6.2.58",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang Kelas",
-   "Kode Kegiatan": "6.2.11",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Toilet dan Sarana Sanitasi Air Bersih Madrasah",
-   "Kode Kegiatan": "6.2.5",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang laboratorium",
-   "Kode Kegiatan": "6.2.1",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang Kepala madrash/Guru/Tata Usaha/BP/BK",
-   "Kode Kegiatan": "6.2.39",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang kelas",
-   "Kode Kegiatan": "6.2.10",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan fasilitas pembelajaran inklusi",
-   "Kode Kegiatan": "6.2.14",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan perabot / meubelair",
-   "Kode Kegiatan": "6.2.18",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang laboratorium",
-   "Kode Kegiatan": "6.2.22",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang perpustakaan",
-   "Kode Kegiatan": "6.2.26",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital",
-   "Kode Kegiatan": "6.2.30",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang fasilitas pembelajaran inklusi",
-   "Kode Kegiatan": "6.2.15",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang perabot / meubelair",
-   "Kode Kegiatan": "6.2.19",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang laboratorium",
-   "Kode Kegiatan": "6.2.23",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang perpustakaan",
-   "Kode Kegiatan": "6.2.27",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital",
-   "Kode Kegiatan": "6.2.31",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Toilet dan Sarana Sanitasi Air Bersih Madrasah",
-   "Kode Kegiatan": "6.2.43",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Alat Laboratorium",
-   "Kode Kegiatan": "6.2.49",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Sarana Digital Madrasah",
-   "Kode Kegiatan": "6.2.50",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Peralatan Madrasah Berkebutuhan Khusus",
-   "Kode Kegiatan": "6.2.52",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembelian Alat dan Bahan Praktikum",
-   "Kode Kegiatan": "6.2.54",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembelian Peralatan Madrasah Berkebutuhan Khusus",
-   "Kode Kegiatan": "6.2.55",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang Perpustakaan",
-   "Kode Kegiatan": "6.2.2",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan sarana prasarana digital madrasah",
-   "Kode Kegiatan": "6.2.57",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan kantin Madrasah",
-   "Kode Kegiatan": "6.3.27",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembuatan taman/lapangan/fasilitas olahraga",
-   "Kode Kegiatan": "6.3.2",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembuatan pagar",
-   "Kode Kegiatan": "6.3.3",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang aula",
-   "Kode Kegiatan": "6.3.7",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang aula",
-   "Kode Kegiatan": "6.3.8",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Ruang Ibadah",
-   "Kode Kegiatan": "6.3.11",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Ruang Ibadah",
-   "Kode Kegiatan": "6.3.12",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan taman, lapangan dan fasilitas olahraga",
-   "Kode Kegiatan": "6.3.15",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan taman, lapangan dan fasilitas olahraga",
-   "Kode Kegiatan": "6.3.16",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang taman, lapangan dan fasilitas olahraga",
-   "Kode Kegiatan": "6.3.17",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat taman, lapangan dan fasilitas olahraga",
-   "Kode Kegiatan": "6.3.18",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Pagar",
-   "Kode Kegiatan": "6.3.19",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Pagar",
-   "Kode Kegiatan": "6.3.20",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Pagar",
-   "Kode Kegiatan": "6.3.21",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Pagar",
-   "Kode Kegiatan": "6.3.22",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Pos Satpam",
-   "Kode Kegiatan": "6.3.23",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan Pos Satpam",
-   "Kode Kegiatan": "6.3.24",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Ringan kantin Madrasah",
-   "Kode Kegiatan": "6.3.28",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan kantin madrasah",
-   "Kode Kegiatan": "6.3.4",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan ruang ibadah",
-   "Kode Kegiatan": "6.3.5",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Pos satpam",
-   "Kode Kegiatan": "6.3.6",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang Ibadah",
-   "Kode Kegiatan": "6.3.13",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang Ibadah",
-   "Kode Kegiatan": "6.3.14",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Pos Satpam",
-   "Kode Kegiatan": "6.3.25",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Pos Satpam",
-   "Kode Kegiatan": "6.3.26",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan Ruang aula",
-   "Kode Kegiatan": "6.3.1",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat Ruang aula",
-   "Kode Kegiatan": "6.3.10",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang Ruang aula",
-   "Kode Kegiatan": "6.3.9",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Berat kantin Madrasah",
-   "Kode Kegiatan": "6.3.30",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penambahan fasilitas elektronik untuk ketatausahaan",
-   "Kode Kegiatan": "6.3.44",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penambahan sarana dan prasarana upacara bendera",
-   "Kode Kegiatan": "6.3.45",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Alat Elektronik",
-   "Kode Kegiatan": "6.3.31",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Instalasi air",
-   "Kode Kegiatan": "6.3.32",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Instalasi listrik (termasuk penggantian lampu)",
-   "Kode Kegiatan": "6.3.33",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Instalasi telepon",
-   "Kode Kegiatan": "6.3.34",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Fasilitas Internet",
-   "Kode Kegiatan": "6.3.35",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan Jaringan Internet baru",
-   "Kode Kegiatan": "6.3.36",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan Instalasi telepon",
-   "Kode Kegiatan": "6.3.37",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penambahan daya listrik",
-   "Kode Kegiatan": "6.3.38",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan genset",
-   "Kode Kegiatan": "6.3.39",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penambahan daya internet",
-   "Kode Kegiatan": "6.3.40",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan instalasi listrik baru",
-   "Kode Kegiatan": "6.3.41",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan instalasi telepon baru",
-   "Kode Kegiatan": "6.3.42",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan dan Pemeliharaan Website",
-   "Kode Kegiatan": "6.3.43",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Rehab Sedang kantin Madrasah",
-   "Kode Kegiatan": "6.3.29",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Evaluasi Diri madrasah",
-   "Kode Kegiatan": "7.1.1",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Kerjasama dengan mitra madrasah",
-   "Kode Kegiatan": "7.1.2",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Standar ISO",
-   "Kode Kegiatan": "7.1.3",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Profil Madrasah",
-   "Kode Kegiatan": "7.1.5",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Rapat Kerja madrasah",
-   "Kode Kegiatan": "7.1.6",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembuatan Program Kerja madrasah",
-   "Kode Kegiatan": "7.1.7",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program RKJM/RPS/RKT/RAPBS/RKAM",
-   "Kode Kegiatan": "7.1.8",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Lokakarya Aplikasi Manajemen Berbasis madrasah",
-   "Kode Kegiatan": "7.1.9",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Madrasah Hijau, Madrasah Sehat, Madrasah Ramah Anak, Madrasah Adiwiyata",
-   "Kode Kegiatan": "7.1.4",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengelolaan Madrasah Berbasis ICT/TIK",
-   "Kode Kegiatan": "7.1.11",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Sistem Informasi Manajemen madrasah (SIM)",
-   "Kode Kegiatan": "7.1.12",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Kajian-kajian yang sesuai dengan kondisi madrasah masing-masing",
-   "Kode Kegiatan": "7.1.10",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Ketatausahaan",
-   "Kode Kegiatan": "7.2.1",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengadaan Sarana Administrasi Perkantoran",
-   "Kode Kegiatan": "7.2.2",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Administrasi Perkantoran",
-   "Kode Kegiatan": "7.2.3",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengelolaan Inventaris Barang",
-   "Kode Kegiatan": "7.2.4",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Manajerial",
-   "Kode Kegiatan": "7.3.4",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Perpustakaan",
-   "Kode Kegiatan": "7.3.5",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Laboratorium",
-   "Kode Kegiatan": "7.3.6",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Administrasi Tata Usaha",
-   "Kode Kegiatan": "7.3.7",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Pemberdayaan Alat",
-   "Kode Kegiatan": "7.3.8",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Supervisi, Monitoring dan Evaluasi",
-   "Kode Kegiatan": "7.3.1",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi, Monitoring, dan Evaluasi Keuangan",
-   "Kode Kegiatan": "7.3.2",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Akademik",
-   "Kode Kegiatan": "7.3.3",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Kerjasama dengan madrasah Bertaraf Internasional dalam negeri",
-   "Kode Kegiatan": "7.4.5",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Kerjasama dengan madrasah Bertaraf Internasional luar negeri",
-   "Kode Kegiatan": "7.4.6",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan sarana publikasi madrasah",
-   "Kode Kegiatan": "7.4.7",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Pemutakhiran data EMIS Madrasah dan data madrasah lainnya",
-   "Kode Kegiatan": "7.4.8",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Sosialisasi Kebijakan-Kebijakan",
-   "Kode Kegiatan": "7.4.1",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Pelatihan guru pembina ekstrakurikuler",
-   "Kode Kegiatan": "7.4.4",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Rakor Komite madrasah",
-   "Kode Kegiatan": "7.4.2",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Pembelajaran di luar Kelas/Madrasah/Studi Wisata/Outing Class",
-   "Kode Kegiatan": "7.4.3",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
- },
- {
-   "Daftar Referensi Uraian": "Pemberian Layanan Subsidi Silang",
-   "Kode Kegiatan": "8.1.1",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pemberian Layanan Subsidi Silang"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Sarana dan Prasarana Operasional",
-   "Kode Kegiatan": "8.2.2",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Penyediaan Beban Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan Beban Operasional Madrasah (ATK, listrik, telp, air, keamanan, kebersihan, dll)",
-   "Kode Kegiatan": "8.2.1",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Penyediaan Beban Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Biaya Operasional Pendidikan",
-   "Kode Kegiatan": "8.3.1",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Biaya Operasional madrasah",
-   "Kode Kegiatan": "8.3.2",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Kartu Jakarta Pintar (khusus untuk DKI Jakarta)",
-   "Kode Kegiatan": "8.3.3",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan RKAM Madrasah",
-   "Kode Kegiatan": "8.3.4",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Pertanggungjawaban dan Keuangan Madrasah",
-   "Kode Kegiatan": "8.3.5",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Standar Biaya Madrasah",
-   "Kode Kegiatan": "8.3.6",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Sosialisasi keuangan madrasah",
-   "Kode Kegiatan": "8.3.7",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Beriman, Bertakwa pada Tuhan YME, dan Penguatan Moderasi Beragama",
-   "Kode Kegiatan": "1.1.1",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan  Kompetensi berkarakter, jujur, dan peduli",
-   "Kode Kegiatan": "1.1.2",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi bertanggungjawab",
-   "Kode Kegiatan": "1.1.3",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi pembelajar sejati sepanjang hayat",
-   "Kode Kegiatan": "1.1.4",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi sehat jasmani dan rohani",
-   "Kode Kegiatan": "1.1.5",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Tes Pengembangan Mutu Dimensi Sikap",
-   "Kode Kegiatan": "1.1.6",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Dimensi Sikap Melalui Perlombaan dan Pertandingan",
-   "Kode Kegiatan": "1.1.7",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Faktual",
-   "Kode Kegiatan": "1.2.1",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Konseptual",
-   "Kode Kegiatan": "1.2.2",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Prosedural",
-   "Kode Kegiatan": "1.2.3",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Metakognitif",
-   "Kode Kegiatan": "1.2.4",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Tes Pengembangan Mutu Dimensi Pengetahuan",
-   "Kode Kegiatan": "1.2.5",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Dimensi Pengetahuan Melalui Perlombaan dan Pertandingan",
-   "Kode Kegiatan": "1.2.6",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Komunikatif",
-   "Kode Kegiatan": "1.3.6",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Tes Pengembangan Mutu Dimensi Keterampilan",
-   "Kode Kegiatan": "1.3.7",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Kreatif",
-   "Kode Kegiatan": "1.3.1",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Produktif",
-   "Kode Kegiatan": "1.3.2",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Kritis",
-   "Kode Kegiatan": "1.3.3",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Mandiri",
-   "Kode Kegiatan": "1.3.4",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Kolaboratif",
-   "Kode Kegiatan": "1.3.5",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Kompetensi Dimensi Keterampilan Melalui Perlombaan dan Pertandingan",
-   "Kode Kegiatan": "1.3.8",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Semester",
-   "Kode Kegiatan": "2.1.1",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Tahunan",
-   "Kode Kegiatan": "2.1.2",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan dan Validasi Silabus",
-   "Kode Kegiatan": "2.1.3",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan dan Review RPP dan RPBK",
-   "Kode Kegiatan": "2.1.4",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program BK",
-   "Kode Kegiatan": "2.1.5",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Perpustakaan",
-   "Kode Kegiatan": "2.1.6",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Pengelolaan Bengkel Keterampilan",
-   "Kode Kegiatan": "2.1.7",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Pengelolaan Multimedia",
-   "Kode Kegiatan": "2.1.8",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Ekstrakurikuler",
-   "Kode Kegiatan": "2.1.9",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Kesiswaan",
-   "Kode Kegiatan": "2.1.10",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Pembagian Tugas Guru dan Jadwal Pembelajaran",
-   "Kode Kegiatan": "2.1.11",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Perangkat Pembelajaran",
-   "Kode Kegiatan": "2.1.12",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Jadwal Pelaksanaan Ekstrakurikuler",
-   "Kode Kegiatan": "2.1.13",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Jadwal Bimbingan dan Konseling",
-   "Kode Kegiatan": "2.1.14",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Konsep/Materi Madrasah Unggulan",
-   "Kode Kegiatan": "2.2.9",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Konsep/Materi Pelajar Pancasila & Rahmatan Lil Alamin",
-   "Kode Kegiatan": "2.2.10",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan hasil layanan Bimbingan Konseling",
-   "Kode Kegiatan": "2.2.11",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Dokumen 1 dan 2 serta review RPP semua mata pelajaran",
-   "Kode Kegiatan": "2.2.2",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Rapat Penyusunan Dokumen SK Tim Pengembang Kurikulum",
-   "Kode Kegiatan": "2.2.3",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Pengembangan kurikulum berdasarkan hasil evaluasi",
-   "Kode Kegiatan": "2.2.4",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan dan dokumentasi layanan perkembangan kurikulum di Madrasah",
-   "Kode Kegiatan": "2.2.5",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Sosialisasi Kurikulum yang digunakan oleh Madrasah",
-   "Kode Kegiatan": "2.2.6",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Kurikulum muatan lokal",
-   "Kode Kegiatan": "2.2.7",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Tahunan, Program Semester, dan Program Minggu Efektif",
-   "Kode Kegiatan": "2.2.8",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan RPP",
-   "Kode Kegiatan": "2.2.12",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Modul Ajar",
-   "Kode Kegiatan": "2.2.13",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Pengelolaan Laboratorium",
-   "Kode Kegiatan": "2.2.14",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan SK Tim Pengembang Kurikulum",
-   "Kode Kegiatan": "2.2.1",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan dan pengelolaan kurikulum",
-   "Kode Kegiatan": "2.3.1",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pelaksanaan Kurikulum Sesuai Ketentuan"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Pembagian Tugas Guru dan Jadwal Pelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan dan Validasi Pengangkat Ajar",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan RPP dan Modul Ajar",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program BP/BK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Program Pengelolaan Laboratorium Komputer",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Pengembangan kurikulum",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Kriterai Ketuntasan Minimal",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Kriteria Kenaikan Kelas",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pendaftaran workshop",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR ISI",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Asesmen Harian @ 12 mapel",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Asesmen Tengah Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Remedial dan Pengayaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Seleksi Siswa Program Bilingual",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Praktikum Komputer",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Praktikum Keterampilan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Studi Wisata",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pemberdayaan Multimedia",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Konsultasi Peningkatan Mutu Pendidikan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengayaan TIK untuk memfasilitasi kegiatan pembelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan diri dengan pemanfaatan TIK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan diri dengan pemanfaatan perpustakaan sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan perilaku hidup bersih dan sehat/Pendidikan dan pengembangan sekolah sehat, aman, ramah anak, dan menyenangkan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pencegahan penyalahgunaan narkotika, psikotropika, zat adiktif (narkoba), minuman keras, merokok, dan HIV AIDS",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Kesehatan reproduksi remaja",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan kegiatan orientasi siswa baru yang bersifat akademik dan pengenalan lingkungan tanpa kekerasan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Penghijauan dan perindangan lingkungan sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanakan kegiatan 7 K",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan pendidikan karakter/penumbuhan budi pekerti, dan kegiatan program perlibatan keluarga di sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Kepramukaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Kesenian dan Kebudayaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Olahraga",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler PMR Pemula",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler English Club",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler UKS/KKR",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Drum Band",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Komputer",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Pesantren Kilat",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Peringatan Hari Besar Agama dan Nasional",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pengelolaan Majalah Dinding",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Evaluasi kegiatan ekstrakurikuler",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba MTQ",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ekstrakurikuler Keagamaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Replacement Tes IQ",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Tes Kendali Mutu",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Try Out",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Pendalaman Materi",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Tes TPA/TKD",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba Mata Pelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba KSM",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba O2SN",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba MIPA",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba OSTN",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba FLS2N",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba PMKBN",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Lomba LKS",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan PORSENI",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Pentas Seni",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
- },
- {
-   "Daftar Referensi Uraian": "Pemberdayaan Perpustakaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengembangan Perpustakaan"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Database Perpustakaan dan Perpustakaan Elektronik (e - library)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Pengembangan Perpustakaan"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Pendaftaran Peserta Didik Baru (PPDB)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Kegiatan Penerimaan Peserta Didik Baru (PPDB)"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Masa Ta’aruf Siswa Madrasah (MATSAMA)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
-   "Nama Kegiatan": "Masa Ta’aruf Siswa Madrasah (MATSAMA)"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan AKGTK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Kompetensi Pengembangan Status Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kualitas Guru Kelas, Mata Pelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Kepala Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pembinaan Administrasi Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pembuatan Media Pembelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan IHT",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Kursus Bahasa Inggris Guru dan Karyawan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyelenggaraan Guru Berprestasi",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Kegiatan KKG/MGMP atau KKKS/MKKS @ 12 mapel",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Guru",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Tenaga Kependidikan (Operator)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Tenaga Perpustakaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Tenaga Laboratorium",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Tenaga UKS",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Peningkatan Kompetensi Tenaga Ekstrakurikuler",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
-   "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan kisi-kisi Ulangan Harian",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan kisi-kisi Ulangan Tengah Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan kisi-kisi Ulangan Akhir Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan kisi-kisi Ulangan Kenaikan Kelas",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan kisi-kisi Ujian sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Soal Ulangan Harian",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Soal Ulangan Tengah Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Soal Ulangan Akhir Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Soal Ulangan Kenaikan Kelas",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Soal Ujian sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ulangan Tengah Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ulangan Akhir Semester",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ulangan Kenaikan Kelas",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/Ujian Sekolah/USBD",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Penilaian/UNBK/UAMBNBK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Ujian Kompetensi Kejuruan (UKK)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Analisis Hasil Penilaian",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Penginputan data nilai siswa berdasarkan aplikasi ARD",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Uji Coba UN/US Tk. Kecamatan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Uji Coba UN/US Tk. Kota",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Uji Coba UASBN/UN Tk. Kecamatan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Uji Coba UASBN/UN Tk. Kota",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pemantapan persiapan ujian/Try Out",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
-   "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Meubelair",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Alat Laboratorium",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Alat Elektronik",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang kelas",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang laboratorium",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang perpustakaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang media",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang Kepala Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang Guru",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang Tata Usaha",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang aula",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang BP/BK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Ruang Ibadah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Kamar mandi/wc guru/karyawan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Kamar mandi/wc siswa",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Taman dan Lapangan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan dan Perbaikan Pagar",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembangunan WC/Sanitasi",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembelian/Perawatan Alat Multi Media Pembelajaran",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Instalasi telepon",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengadaan genset",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pemasangan instalasi air baru",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pemeliharaan Website",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pembelian laptop atau personal computer",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/sewa saran/perlengkapan/peralatan Penunjang Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pengadaan bahan alat pendukung e-learning",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
-   "Nama Kegiatan": "Pembelian/sewa saran/perlengkapan/peralatan Penunjang Kegiatan Pembelajaran"
- },
- {
-   "Daftar Referensi Uraian": "Pendataan Pendidikan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Usaha Kesehatan Sekolah (UKS), peralatan dan/atau obat-obatan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Evaluasi Diri Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Profil Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Rapat Kerja Kepala Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembuatan Program Kerja Kepala Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Lokakarya Aplikasi Manajemen Berbasis Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Kajian-kajian yang sesuai dengan kondisi sekolah masing-masing",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengelolaan Sekolah Berbasis ICT/TIK",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengembangan Sistem Informasi Manajemen Sekolah (SIM)",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pengadaan Sarana Administrasi Madrasah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pelaksanaan Supervisi",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Non-Akademik",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Supervisi Ekskul",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Monitoring Program Kesiswaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Monitoring kegiatan belajar Mengajar",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Monitoring kegiatan Sarana Prasarana",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Rakor Komite  Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pengelolaan Madrasah"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran honor GBPNS dan Tenaga Kependidikan 15 orang",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pembayaran Honor Rutin"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran honor Pegawai administrasi Pegawai perpustakaan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pembayaran Honor Rutin"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran honor Penjaga Madrasah, Satpam, Petugas Kebersihan @ 2 orang",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pembayaran Honor Rutin"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran honor Operator data, Bendahara, Operator EMIS, Operator aplikasi, dan Pengelola Keuangan sebagai tugas tambahan untuk non PNS",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
-   "Nama Kegiatan": "Pembayaran Honor Rutin"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran tagihan telepon",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran tagihan listrik",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran tagihan air",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran tagihan internet",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran Retribusi keamanan dan sampah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Pembayaran sewa sarana dan prasarana sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Langganan daya dan jasa"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Biaya Operasional Sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Laporan Keuangan Sekolah/Madrasah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyusunan Standar Biaya Sekolah/Madrasah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Pelaporan dan penjilidan",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Penyediaan media informasi sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- },
- {
-   "Daftar Referensi Uraian": "Sosialisasi keuangan sekolah",
-   "Kode Kegiatan": "-",
-   "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
-   "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
- }
-]
+{
+   "Penyusunan Metode Pembelajaran": {
+      "Kode Kegiatan": "3.1.2",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
+   },
+   "Penyusunan Rancangan penilaian autentik": {
+      "Kode Kegiatan": "3.1.3",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
+   },
+   "Penyediaan Perangkat pembelajaran (Prota, Prosem, RPP, Silabus, Media, dsb.)": {
+      "Kode Kegiatan": "3.1.1",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
+   },
+   "Penerimaan Peserta Didik Baru (PPDB)": {
+      "Kode Kegiatan": "3.1.4",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
+   },
+   "Masa Taaruf Siswa Madrasah": {
+      "Kode Kegiatan": "3.1.5",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Sekolah merencanakan proses pembelajaran sesuai kebutuhan"
+   },
+   "Workshop Media Pembelajaran": {
+      "Kode Kegiatan": "3.2.5",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pemberdayaan Tokoh agama/masyarakat dalam kegiatan pembelajaran": {
+      "Kode Kegiatan": "3.2.6",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pelaksanaan Kegiatan Ekstrakurikuler": {
+      "Kode Kegiatan": "3.2.11",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pemanfaatan Lingkungan sebagai sumber pembelajaran": {
+      "Kode Kegiatan": "3.2.10",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Bimbingan Pelajaran oleh Guru": {
+      "Kode Kegiatan": "3.2.7",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pelaksanaan Kegiatan Belajar Mengajar": {
+      "Kode Kegiatan": "3.2.1",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pelaksanaan Kegiatan Belajar Mengajar Digital Madrasah": {
+      "Kode Kegiatan": "3.2.2",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Layanan Pembelajaran Inklusi": {
+      "Kode Kegiatan": "3.2.3",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Praktikum": {
+      "Kode Kegiatan": "3.2.4",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pemanfaatan Perpustakaan untuk pembelajaran": {
+      "Kode Kegiatan": "3.2.8",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Pemanfaatan  TIK untuk kegiatan pembelajaran": {
+      "Kode Kegiatan": "3.2.9",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Proses Pembelajaran dilaksnakan dengan tepat"
+   },
+   "Penilaian unjuk kerja (Performa)": {
+      "Kode Kegiatan": "3.3.5",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Pengembangan rubrik penilaian proses": {
+      "Kode Kegiatan": "3.3.6",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Pelaksanaan Penilaian dan Pemanfaatan Portofolio pembelajaran": {
+      "Kode Kegiatan": "3.3.3",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Penilaian Proyek": {
+      "Kode Kegiatan": "3.3.4",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Pelaksanaan test diagnostik": {
+      "Kode Kegiatan": "3.3.1",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Test TPA/TKD": {
+      "Kode Kegiatan": "3.3.2",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengawasan dan penilaian autentik dilakukan dalam proses pembelajaran"
+   },
+   "Pengembangan model penilaian yang inovatif": {
+      "Kode Kegiatan": "4.1.1",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
+   },
+   "Pelaksanaan model penilaian yang inovatif": {
+      "Kode Kegiatan": "4.1.2",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
+   },
+   "Penyusunan Pedoman kisi-kisi penilaian": {
+      "Kode Kegiatan": "4.1.3",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
+   },
+   "Penginputan data nilai siswa": {
+      "Kode Kegiatan": "4.1.4",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Aspek penilaian sesuai ranah kompetensi"
+   },
+   "Pengembangan Teknik penilaian  tertulis": {
+      "Kode Kegiatan": "4.2.1",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik penilaian  lisan": {
+      "Kode Kegiatan": "4.2.2",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik penilaian projek": {
+      "Kode Kegiatan": "4.2.3",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik penilaian Performa / kinerja": {
+      "Kode Kegiatan": "4.2.4",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik penilaian portofolio": {
+      "Kode Kegiatan": "4.2.5",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik Penilaian Sikap, Keterampilan,": {
+      "Kode Kegiatan": "4.2.6",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Pengembangan Teknik Penilaian Rubrik": {
+      "Kode Kegiatan": "4.2.7",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Teknik penilaian objektif dan akuntabel"
+   },
+   "Analisis hasil ANBK": {
+      "Kode Kegiatan": "4.3.4",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
+   },
+   "Analisis Hasil Penilaian UH, Formatif, Sumatif, PAS, PAT": {
+      "Kode Kegiatan": "4.3.1",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
+   },
+   "Perencanaan dan Pelaksanaan Tindak Lanjut Hasil Penilaian": {
+      "Kode Kegiatan": "4.3.2",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
+   },
+   "Pengembangan Program Remedial/Pengayaan": {
+      "Kode Kegiatan": "4.3.3",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penilaian pendidikan ditindaklanjuti"
+   },
+   "Penyusunan Instrumen kisi-kisi Ulangan Tengah Semester": {
+      "Kode Kegiatan": "4.4.1",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Penyusunan Instrumen kisi-kisi Ulangan Akhir Semester": {
+      "Kode Kegiatan": "4.4.2",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Penyusunan instrumen kisi-kisi Ulangan Kenaikan Kelas": {
+      "Kode Kegiatan": "4.4.3",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Penyusunan Instrumen kisi-kisi Ujian Madrasah": {
+      "Kode Kegiatan": "4.4.4",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Penyusunan instrumen kisi-kisi Ulangan Harian": {
+      "Kode Kegiatan": "4.4.5",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Penyusunan instrumen PAT/PAS": {
+      "Kode Kegiatan": "4.4.6",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Instrumen penilaian menyesuaikan aspek"
+   },
+   "Pelaksanaan Penilaian/Ulangan Harian": {
+      "Kode Kegiatan": "4.5.1",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Penilaian/Ujian Tengah Semester": {
+      "Kode Kegiatan": "4.5.2",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Penilaian/Ujian Akhir Semester": {
+      "Kode Kegiatan": "4.5.3",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Penilaian/Ujian Kenaikan Kelas": {
+      "Kode Kegiatan": "4.5.4",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Ujian Madrasah": {
+      "Kode Kegiatan": "4.5.5",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Asesmen Nasional atau Sejenisnya": {
+      "Kode Kegiatan": "4.5.6",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Pelaksanaan Uji Kompetensi Kejuruan (UKK)": {
+      "Kode Kegiatan": "4.5.7",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Penialain dilakukan sesuai prosedur"
+   },
+   "Seleksi Guru Baru": {
+      "Kode Kegiatan": "5.1.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
+   },
+   "Kegiatan KKG/MGMP": {
+      "Kode Kegiatan": "5.1.3",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
+   },
+   "Penguatan Kapasitas Bagi Kepala Madrasah": {
+      "Kode Kegiatan": "5.1.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Guru"
+   },
+   "Kegiatan KKKS/MKKS": {
+      "Kode Kegiatan": "5.2.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Kepala Madrasah"
+   },
+   "Penguatan Kapasitas Bagi Guru": {
+      "Kode Kegiatan": "5.2.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Kepala Madrasah"
+   },
+   "Seleksi Tenaga Administrasi": {
+      "Kode Kegiatan": "5.3.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Administrasi"
+   },
+   "Penguatan Kapasitas Bagi Tenaga Administrasi": {
+      "Kode Kegiatan": "5.3.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Administrasi"
+   },
+   "Seleksi Tenaga Laboran": {
+      "Kode Kegiatan": "5.4.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompentensi Laboran"
+   },
+   "Penguatan Kapasitas Bagi Tenaga Laboran": {
+      "Kode Kegiatan": "5.4.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompentensi Laboran"
+   },
+   "Seleksi Tenaga Pustakawan": {
+      "Kode Kegiatan": "5.5.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Pustakawan"
+   },
+   "Penguatan Kapasitas Bagi Tenaga Pustakawan": {
+      "Kode Kegiatan": "5.5.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Pustakawan"
+   },
+   "Seleksi Tenaga Kependidikan Lainnya": {
+      "Kode Kegiatan": "5.6.1",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Kependidikan Lainnya"
+   },
+   "Penguatan Kapasitas Bagi Tenaga Kependidikan Lainnya": {
+      "Kode Kegiatan": "5.6.2",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Penyediaan dan Peningkatan Kompetensi Tenaga Kependidikan Lainnya"
+   },
+   "Pembangunan Ruang Kelas Baru": {
+      "Kode Kegiatan": "6.1.1",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
+   },
+   "Pembangunan fasilitas pembelajaran inklusi": {
+      "Kode Kegiatan": "6.1.2",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
+   },
+   "Penambahan perabot / meubelair": {
+      "Kode Kegiatan": "6.1.3",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Untuk Menambah Daya Tampung Madrasah"
+   },
+   "Rehab Ringan Ruang media": {
+      "Kode Kegiatan": "6.2.34",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang media": {
+      "Kode Kegiatan": "6.2.35",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang Kelas": {
+      "Kode Kegiatan": "6.2.12",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemasangan/Pembuatan instalasi air baru dan/atau sumur": {
+      "Kode Kegiatan": "6.2.8",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang Media": {
+      "Kode Kegiatan": "6.2.4",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang Ekstrakurikuler/OSIS/UKS": {
+      "Kode Kegiatan": "6.2.7",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat fasilitas pembelajaran inklusi": {
+      "Kode Kegiatan": "6.2.16",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang laboratorium": {
+      "Kode Kegiatan": "6.2.24",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang perpustakaan": {
+      "Kode Kegiatan": "6.2.28",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital": {
+      "Kode Kegiatan": "6.2.32",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang media": {
+      "Kode Kegiatan": "6.2.36",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan fasilitas pembelajaran inklusi": {
+      "Kode Kegiatan": "6.2.13",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan perabot / meubelair": {
+      "Kode Kegiatan": "6.2.17",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang Kepala madrasah/Guru/Tata Usaha/BP/BK": {
+      "Kode Kegiatan": "6.2.6",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Penyediaan Sarana dan Prasarana Perpustakaan termasuk perpustakaan digital": {
+      "Kode Kegiatan": "6.2.3",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang kelas": {
+      "Kode Kegiatan": "6.2.9",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab berat perabot / meubelair": {
+      "Kode Kegiatan": "6.2.20",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang laboratorium": {
+      "Kode Kegiatan": "6.2.21",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang perpustakaan": {
+      "Kode Kegiatan": "6.2.25",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital": {
+      "Kode Kegiatan": "6.2.29",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang media": {
+      "Kode Kegiatan": "6.2.33",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang Kepala madrash/Guru/Tata Usaha/BP/BK": {
+      "Kode Kegiatan": "6.2.37",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang Kepala madrash/Guru/Tata Usaha/BP/BK": {
+      "Kode Kegiatan": "6.2.38",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Penyediaan Sarana dan Prasarana untuk Siswa Miskin": {
+      "Kode Kegiatan": "6.2.53",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang Kepala madrash/Guru/Tata Usaha/BP/BK": {
+      "Kode Kegiatan": "6.2.40",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang Ekstrakurikuler": {
+      "Kode Kegiatan": "6.2.48",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Toilet dan Sarana Sanitasi Air Bersih Madrasah": {
+      "Kode Kegiatan": "6.2.42",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Toilet dan Sarana Sanitasi Air Bersih Madrasah": {
+      "Kode Kegiatan": "6.2.41",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Toilet dan Sarana Sanitasi Air Bersih Madrasah": {
+      "Kode Kegiatan": "6.2.44",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang Ekstrakurikuler": {
+      "Kode Kegiatan": "6.2.45",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang Ekstrakurikuler": {
+      "Kode Kegiatan": "6.2.46",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang Ekstrakurikuler": {
+      "Kode Kegiatan": "6.2.47",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Media Pendidikan": {
+      "Kode Kegiatan": "6.2.51",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Penyediaan Media Pendidikan": {
+      "Kode Kegiatan": "6.2.56",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Penyediaan Media dan sumber pembelajaran": {
+      "Kode Kegiatan": "6.2.58",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang Kelas": {
+      "Kode Kegiatan": "6.2.11",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Toilet dan Sarana Sanitasi Air Bersih Madrasah": {
+      "Kode Kegiatan": "6.2.5",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang laboratorium": {
+      "Kode Kegiatan": "6.2.1",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang Kepala madrash/Guru/Tata Usaha/BP/BK": {
+      "Kode Kegiatan": "6.2.39",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang kelas": {
+      "Kode Kegiatan": "6.2.10",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan fasilitas pembelajaran inklusi": {
+      "Kode Kegiatan": "6.2.14",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan perabot / meubelair": {
+      "Kode Kegiatan": "6.2.18",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang laboratorium": {
+      "Kode Kegiatan": "6.2.22",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang perpustakaan": {
+      "Kode Kegiatan": "6.2.26",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital": {
+      "Kode Kegiatan": "6.2.30",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang fasilitas pembelajaran inklusi": {
+      "Kode Kegiatan": "6.2.15",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang perabot / meubelair": {
+      "Kode Kegiatan": "6.2.19",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang laboratorium": {
+      "Kode Kegiatan": "6.2.23",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang perpustakaan": {
+      "Kode Kegiatan": "6.2.27",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Sarana dan Prasarana Perpusatakaan termasuk perpustakaan digital": {
+      "Kode Kegiatan": "6.2.31",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Toilet dan Sarana Sanitasi Air Bersih Madrasah": {
+      "Kode Kegiatan": "6.2.43",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Alat Laboratorium": {
+      "Kode Kegiatan": "6.2.49",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Sarana Digital Madrasah": {
+      "Kode Kegiatan": "6.2.50",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Peralatan Madrasah Berkebutuhan Khusus": {
+      "Kode Kegiatan": "6.2.52",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembelian Alat dan Bahan Praktikum": {
+      "Kode Kegiatan": "6.2.54",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembelian Peralatan Madrasah Berkebutuhan Khusus": {
+      "Kode Kegiatan": "6.2.55",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang Perpustakaan": {
+      "Kode Kegiatan": "6.2.2",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Penyediaan sarana prasarana digital madrasah": {
+      "Kode Kegiatan": "6.2.57",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyediaan Sarana dan Prasarana Pembelajaran Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan kantin Madrasah": {
+      "Kode Kegiatan": "6.3.27",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembuatan taman/lapangan/fasilitas olahraga": {
+      "Kode Kegiatan": "6.3.2",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembuatan pagar": {
+      "Kode Kegiatan": "6.3.3",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang aula": {
+      "Kode Kegiatan": "6.3.7",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang aula": {
+      "Kode Kegiatan": "6.3.8",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Ruang Ibadah": {
+      "Kode Kegiatan": "6.3.11",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Ruang Ibadah": {
+      "Kode Kegiatan": "6.3.12",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan taman, lapangan dan fasilitas olahraga": {
+      "Kode Kegiatan": "6.3.15",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan taman, lapangan dan fasilitas olahraga": {
+      "Kode Kegiatan": "6.3.16",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang taman, lapangan dan fasilitas olahraga": {
+      "Kode Kegiatan": "6.3.17",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat taman, lapangan dan fasilitas olahraga": {
+      "Kode Kegiatan": "6.3.18",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Pagar": {
+      "Kode Kegiatan": "6.3.19",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Pagar": {
+      "Kode Kegiatan": "6.3.20",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Pagar": {
+      "Kode Kegiatan": "6.3.21",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Pagar": {
+      "Kode Kegiatan": "6.3.22",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan Pos Satpam": {
+      "Kode Kegiatan": "6.3.23",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan Pos Satpam": {
+      "Kode Kegiatan": "6.3.24",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Ringan kantin Madrasah": {
+      "Kode Kegiatan": "6.3.28",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembangunan kantin madrasah": {
+      "Kode Kegiatan": "6.3.4",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembangunan ruang ibadah": {
+      "Kode Kegiatan": "6.3.5",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembangunan Pos satpam": {
+      "Kode Kegiatan": "6.3.6",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang Ibadah": {
+      "Kode Kegiatan": "6.3.13",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang Ibadah": {
+      "Kode Kegiatan": "6.3.14",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Pos Satpam": {
+      "Kode Kegiatan": "6.3.25",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Pos Satpam": {
+      "Kode Kegiatan": "6.3.26",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pembangunan Ruang aula": {
+      "Kode Kegiatan": "6.3.1",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat Ruang aula": {
+      "Kode Kegiatan": "6.3.10",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang Ruang aula": {
+      "Kode Kegiatan": "6.3.9",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Berat kantin Madrasah": {
+      "Kode Kegiatan": "6.3.30",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penambahan fasilitas elektronik untuk ketatausahaan": {
+      "Kode Kegiatan": "6.3.44",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penambahan sarana dan prasarana upacara bendera": {
+      "Kode Kegiatan": "6.3.45",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Alat Elektronik": {
+      "Kode Kegiatan": "6.3.31",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Instalasi air": {
+      "Kode Kegiatan": "6.3.32",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Instalasi listrik (termasuk penggantian lampu)": {
+      "Kode Kegiatan": "6.3.33",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Instalasi telepon": {
+      "Kode Kegiatan": "6.3.34",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemeliharaan dan Perbaikan Fasilitas Internet": {
+      "Kode Kegiatan": "6.3.35",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemasangan Jaringan Internet baru": {
+      "Kode Kegiatan": "6.3.36",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemasangan Instalasi telepon": {
+      "Kode Kegiatan": "6.3.37",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penambahan daya listrik": {
+      "Kode Kegiatan": "6.3.38",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penyediaan genset": {
+      "Kode Kegiatan": "6.3.39",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penambahan daya internet": {
+      "Kode Kegiatan": "6.3.40",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemasangan instalasi listrik baru": {
+      "Kode Kegiatan": "6.3.41",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pemasangan instalasi telepon baru": {
+      "Kode Kegiatan": "6.3.42",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Pengembangan dan Pemeliharaan Website": {
+      "Kode Kegiatan": "6.3.43",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Rehab Sedang kantin Madrasah": {
+      "Kode Kegiatan": "6.3.29",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Penyedianaan Sarana dan Prasarana Pendukung Yang Lengkap dan Layak"
+   },
+   "Penyusunan Evaluasi Diri madrasah": {
+      "Kode Kegiatan": "7.1.1",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Kerjasama dengan mitra madrasah": {
+      "Kode Kegiatan": "7.1.2",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Standar ISO": {
+      "Kode Kegiatan": "7.1.3",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Penyusunan Profil Madrasah": {
+      "Kode Kegiatan": "7.1.5",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Pelaksanaan Rapat Kerja madrasah": {
+      "Kode Kegiatan": "7.1.6",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Pembuatan Program Kerja madrasah": {
+      "Kode Kegiatan": "7.1.7",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Penyusunan Program RKJM/RPS/RKT/RAPBS/RKAM": {
+      "Kode Kegiatan": "7.1.8",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Lokakarya Aplikasi Manajemen Berbasis madrasah": {
+      "Kode Kegiatan": "7.1.9",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Pengembangan Madrasah Hijau, Madrasah Sehat, Madrasah Ramah Anak, Madrasah Adiwiyata": {
+      "Kode Kegiatan": "7.1.4",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Pengelolaan Madrasah Berbasis ICT/TIK": {
+      "Kode Kegiatan": "7.1.11",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Pengembangan Sistem Informasi Manajemen madrasah (SIM)": {
+      "Kode Kegiatan": "7.1.12",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Kajian-kajian yang sesuai dengan kondisi madrasah masing-masing": {
+      "Kode Kegiatan": "7.1.10",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Perencanaan pengelolaan Madrasah"
+   },
+   "Penyusunan Program Ketatausahaan": {
+      "Kode Kegiatan": "7.2.1",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
+   },
+   "Pengadaan Sarana Administrasi Perkantoran": {
+      "Kode Kegiatan": "7.2.2",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
+   },
+   "Penyusunan Laporan Administrasi Perkantoran": {
+      "Kode Kegiatan": "7.2.3",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
+   },
+   "Pengelolaan Inventaris Barang": {
+      "Kode Kegiatan": "7.2.4",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pelaksanaan Pengelolaan Madrasah"
+   },
+   "Supervisi Manajerial": {
+      "Kode Kegiatan": "7.3.4",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi Perpustakaan": {
+      "Kode Kegiatan": "7.3.5",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi Laboratorium": {
+      "Kode Kegiatan": "7.3.6",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi Administrasi Tata Usaha": {
+      "Kode Kegiatan": "7.3.7",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi Pemberdayaan Alat": {
+      "Kode Kegiatan": "7.3.8",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Penyusunan Program Supervisi, Monitoring dan Evaluasi": {
+      "Kode Kegiatan": "7.3.1",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi, Monitoring, dan Evaluasi Keuangan": {
+      "Kode Kegiatan": "7.3.2",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Supervisi Akademik": {
+      "Kode Kegiatan": "7.3.3",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Supervisi, Monitoring dan Evaluasi Kepala Madrasah"
+   },
+   "Kerjasama dengan madrasah Bertaraf Internasional dalam negeri": {
+      "Kode Kegiatan": "7.4.5",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Kerjasama dengan madrasah Bertaraf Internasional luar negeri": {
+      "Kode Kegiatan": "7.4.6",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Penyediaan sarana publikasi madrasah": {
+      "Kode Kegiatan": "7.4.7",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Pemutakhiran data EMIS Madrasah dan data madrasah lainnya": {
+      "Kode Kegiatan": "7.4.8",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Sosialisasi Kebijakan-Kebijakan": {
+      "Kode Kegiatan": "7.4.1",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Pelatihan guru pembina ekstrakurikuler": {
+      "Kode Kegiatan": "7.4.4",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Rakor Komite madrasah": {
+      "Kode Kegiatan": "7.4.2",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Penyelenggaraan Pembelajaran di luar Kelas/Madrasah/Studi Wisata/Outing Class": {
+      "Kode Kegiatan": "7.4.3",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Sistem Informasi manajemen"
+   },
+   "Pemberian Layanan Subsidi Silang": {
+      "Kode Kegiatan": "8.1.1",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pemberian Layanan Subsidi Silang"
+   },
+   "Penyediaan Sarana dan Prasarana Operasional": {
+      "Kode Kegiatan": "8.2.2",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Penyediaan Beban Operasional Madrasah"
+   },
+   "Penyediaan Beban Operasional Madrasah (ATK, listrik, telp, air, keamanan, kebersihan, dll)": {
+      "Kode Kegiatan": "8.2.1",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Penyediaan Beban Operasional Madrasah"
+   },
+   "Penyusunan Laporan Biaya Operasional Pendidikan": {
+      "Kode Kegiatan": "8.3.1",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Penyusunan Laporan Biaya Operasional madrasah": {
+      "Kode Kegiatan": "8.3.2",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Penyusunan Laporan Kartu Jakarta Pintar (khusus untuk DKI Jakarta)": {
+      "Kode Kegiatan": "8.3.3",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Penyusunan RKAM Madrasah": {
+      "Kode Kegiatan": "8.3.4",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Penyusunan Laporan Pertanggungjawaban dan Keuangan Madrasah": {
+      "Kode Kegiatan": "8.3.5",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Penyusunan Standar Biaya Madrasah": {
+      "Kode Kegiatan": "8.3.6",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Sosialisasi keuangan madrasah": {
+      "Kode Kegiatan": "8.3.7",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Dana Operasional Madrasah"
+   },
+   "Pengembangan Kompetensi Beriman, Bertakwa pada Tuhan YME, dan Penguatan Moderasi Beragama": {
+      "Kode Kegiatan": "1.1.1",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan  Kompetensi berkarakter, jujur, dan peduli": {
+      "Kode Kegiatan": "1.1.2",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan Kompetensi bertanggungjawab": {
+      "Kode Kegiatan": "1.1.3",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan Kompetensi pembelajar sejati sepanjang hayat": {
+      "Kode Kegiatan": "1.1.4",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan Kompetensi sehat jasmani dan rohani": {
+      "Kode Kegiatan": "1.1.5",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pelaksanaan Tes Pengembangan Mutu Dimensi Sikap": {
+      "Kode Kegiatan": "1.1.6",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan Kompetensi Dimensi Sikap Melalui Perlombaan dan Pertandingan": {
+      "Kode Kegiatan": "1.1.7",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Sikap"
+   },
+   "Pengembangan Kompetensi Faktual": {
+      "Kode Kegiatan": "1.2.1",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pengembangan Kompetensi Konseptual": {
+      "Kode Kegiatan": "1.2.2",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pengembangan Kompetensi Prosedural": {
+      "Kode Kegiatan": "1.2.3",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pengembangan Kompetensi Metakognitif": {
+      "Kode Kegiatan": "1.2.4",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pelaksanaan Tes Pengembangan Mutu Dimensi Pengetahuan": {
+      "Kode Kegiatan": "1.2.5",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pengembangan Kompetensi Dimensi Pengetahuan Melalui Perlombaan dan Pertandingan": {
+      "Kode Kegiatan": "1.2.6",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Pengetahuan"
+   },
+   "Pengembangan Kompetensi Komunikatif": {
+      "Kode Kegiatan": "1.3.6",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pelaksanaan Tes Pengembangan Mutu Dimensi Keterampilan": {
+      "Kode Kegiatan": "1.3.7",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Kreatif": {
+      "Kode Kegiatan": "1.3.1",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Produktif": {
+      "Kode Kegiatan": "1.3.2",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Kritis": {
+      "Kode Kegiatan": "1.3.3",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Mandiri": {
+      "Kode Kegiatan": "1.3.4",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Kolaboratif": {
+      "Kode Kegiatan": "1.3.5",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Pengembangan Kompetensi Dimensi Keterampilan Melalui Perlombaan dan Pertandingan": {
+      "Kode Kegiatan": "1.3.8",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pelaksanaan Kompetensi pada Dimensi Keterampilan"
+   },
+   "Penyusunan Program Semester": {
+      "Kode Kegiatan": "2.1.1",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Tahunan": {
+      "Kode Kegiatan": "2.1.2",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Pengembangan dan Validasi Silabus": {
+      "Kode Kegiatan": "2.1.3",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan dan Review RPP dan RPBK": {
+      "Kode Kegiatan": "2.1.4",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program BK": {
+      "Kode Kegiatan": "2.1.5",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Perpustakaan": {
+      "Kode Kegiatan": "2.1.6",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Pengelolaan Bengkel Keterampilan": {
+      "Kode Kegiatan": "2.1.7",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Pengelolaan Multimedia": {
+      "Kode Kegiatan": "2.1.8",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Ekstrakurikuler": {
+      "Kode Kegiatan": "2.1.9",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Program Kesiswaan": {
+      "Kode Kegiatan": "2.1.10",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Pembagian Tugas Guru dan Jadwal Pembelajaran": {
+      "Kode Kegiatan": "2.1.11",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Perangkat Pembelajaran": {
+      "Kode Kegiatan": "2.1.12",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Jadwal Pelaksanaan Ekstrakurikuler": {
+      "Kode Kegiatan": "2.1.13",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Penyusunan Jadwal Bimbingan dan Konseling": {
+      "Kode Kegiatan": "2.1.14",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Perangkat Pembelajaran"
+   },
+   "Pengembangan Konsep/Materi Madrasah Unggulan": {
+      "Kode Kegiatan": "2.2.9",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Pengembangan Konsep/Materi Pelajar Pancasila & Rahmatan Lil Alamin": {
+      "Kode Kegiatan": "2.2.10",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Laporan hasil layanan Bimbingan Konseling": {
+      "Kode Kegiatan": "2.2.11",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Dokumen 1 dan 2 serta review RPP semua mata pelajaran": {
+      "Kode Kegiatan": "2.2.2",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Rapat Penyusunan Dokumen SK Tim Pengembang Kurikulum": {
+      "Kode Kegiatan": "2.2.3",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Pengembangan kurikulum berdasarkan hasil evaluasi": {
+      "Kode Kegiatan": "2.2.4",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Pelaksanaan dan dokumentasi layanan perkembangan kurikulum di Madrasah": {
+      "Kode Kegiatan": "2.2.5",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Sosialisasi Kurikulum yang digunakan oleh Madrasah": {
+      "Kode Kegiatan": "2.2.6",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Kurikulum muatan lokal": {
+      "Kode Kegiatan": "2.2.7",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Program Tahunan, Program Semester, dan Program Minggu Efektif": {
+      "Kode Kegiatan": "2.2.8",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Pengembangan RPP": {
+      "Kode Kegiatan": "2.2.12",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Modul Ajar": {
+      "Kode Kegiatan": "2.2.13",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan Program Pengelolaan Laboratorium": {
+      "Kode Kegiatan": "2.2.14",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Penyusunan SK Tim Pengembang Kurikulum": {
+      "Kode Kegiatan": "2.2.1",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Penyusunan Kurikulum Tingkat Satuan Pendidikan dikembangkan sesuai prosedur"
+   },
+   "Pelaksanaan dan pengelolaan kurikulum": {
+      "Kode Kegiatan": "2.3.1",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pelaksanaan Kurikulum Sesuai Ketentuan"
+   },
+   "Penyusunan Pembagian Tugas Guru dan Jadwal Pelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Pengembangan dan Validasi Pengangkat Ajar": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Pengembangan RPP dan Modul Ajar": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan Program BP/BK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan Program Pengelolaan Laboratorium Komputer": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan Pengembangan kurikulum": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan Kriterai Ketuntasan Minimal": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan Kriteria Kenaikan Kelas": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Pendaftaran workshop": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR ISI",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyelenggaraan Asesmen Harian @ 12 mapel": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Penyelenggaraan Asesmen Tengah Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Penyelenggaraan Remedial dan Pengayaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Seleksi Siswa Program Bilingual": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Praktikum Komputer": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Praktikum Keterampilan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pelaksanaan Studi Wisata": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pemberdayaan Multimedia": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Konsultasi Peningkatan Mutu Pendidikan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pengayaan TIK untuk memfasilitasi kegiatan pembelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pengembangan diri dengan pemanfaatan TIK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pengembangan diri dengan pemanfaatan perpustakaan sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pelaksanaan perilaku hidup bersih dan sehat/Pendidikan dan pengembangan sekolah sehat, aman, ramah anak, dan menyenangkan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pencegahan penyalahgunaan narkotika, psikotropika, zat adiktif (narkoba), minuman keras, merokok, dan HIV AIDS": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Kesehatan reproduksi remaja": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pelaksanaan kegiatan orientasi siswa baru yang bersifat akademik dan pengenalan lingkungan tanpa kekerasan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Penghijauan dan perindangan lingkungan sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pelaksanakan kegiatan 7 K": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pengembangan pendidikan karakter/penumbuhan budi pekerti, dan kegiatan program perlibatan keluarga di sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pembelajaran"
+   },
+   "Pelaksanaan Ekstrakurikuler Kepramukaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler Kesenian dan Kebudayaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler Olahraga": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler PMR Pemula": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler English Club": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler UKS/KKR": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler Drum Band": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler Komputer": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Penyelenggaraan Pesantren Kilat": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Peringatan Hari Besar Agama dan Nasional": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pengelolaan Majalah Dinding": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Evaluasi kegiatan ekstrakurikuler": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Lomba MTQ": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ekstrakurikuler Keagamaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Ekstrakurikuler"
+   },
+   "Pelaksanaan Replacement Tes IQ": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Tes Kendali Mutu": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Try Out": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Pendalaman Materi": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Tes TPA/TKD": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba Mata Pelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba KSM": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba O2SN": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba MIPA": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba OSTN": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba FLS2N": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba PMKBN": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pelaksanaan Lomba LKS": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Penyelenggaraan PORSENI": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Penyelenggaraan Pentas Seni": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Pengembangan Potensi Siswa"
+   },
+   "Pemberdayaan Perpustakaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengembangan Perpustakaan"
+   },
+   "Pengembangan Database Perpustakaan dan Perpustakaan Elektronik (e - library)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Pengembangan Perpustakaan"
+   },
+   "Pelaksanaan Pendaftaran Peserta Didik Baru (PPDB)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Kegiatan Penerimaan Peserta Didik Baru (PPDB)"
+   },
+   "Pelaksanaan Masa Ta’aruf Siswa Madrasah (MATSAMA)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PROSES PEMBELAJARAN",
+      "Nama Kegiatan": "Masa Ta’aruf Siswa Madrasah (MATSAMA)"
+   },
+   "Pelaksanaan AKGTK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Kompetensi Pengembangan Status Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR KOMPETENSI LULUSAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kualitas Guru Kelas, Mata Pelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Kepala Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Pembinaan Administrasi Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Pembuatan Media Pembelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyelenggaraan IHT": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyelenggaraan Kursus Bahasa Inggris Guru dan Karyawan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyelenggaraan Guru Berprestasi": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Kegiatan KKG/MGMP atau KKKS/MKKS @ 12 mapel": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Guru": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Tenaga Kependidikan (Operator)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Tenaga Perpustakaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Tenaga Laboratorium": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Tenaga UKS": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Peningkatan Kompetensi Tenaga Ekstrakurikuler": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENDIDIK DAN TENAGA KEPENDIDIKAN",
+      "Nama Kegiatan": "Pengembangan Keprofesian Guru dan Tenaga Kependidikan, serta Pengembangan Manajemen Sekolah"
+   },
+   "Penyusunan kisi-kisi Ulangan Harian": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan kisi-kisi Ulangan Tengah Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan kisi-kisi Ulangan Akhir Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan kisi-kisi Ulangan Kenaikan Kelas": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan kisi-kisi Ujian sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan Soal Ulangan Harian": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan Soal Ulangan Tengah Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan Soal Ulangan Akhir Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan Soal Ulangan Kenaikan Kelas": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penyusunan Soal Ujian sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Penilaian/Ulangan Tengah Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Penilaian/Ulangan Akhir Semester": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Penilaian/Ulangan Kenaikan Kelas": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Penilaian/Ujian Sekolah/USBD": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Penilaian/UNBK/UAMBNBK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Ujian Kompetensi Kejuruan (UKK)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Analisis Hasil Penilaian": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Penginputan data nilai siswa berdasarkan aplikasi ARD": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Uji Coba UN/US Tk. Kecamatan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Uji Coba UN/US Tk. Kota": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Uji Coba UASBN/UN Tk. Kecamatan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pelaksanaan Uji Coba UASBN/UN Tk. Kota": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pemantapan persiapan ujian/Try Out": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "PENILAIAN PENDIDIKAN",
+      "Nama Kegiatan": "Kegiatan Evaluasi Pembelajaran dan Ekstrakurikuler"
+   },
+   "Pemeliharaan Meubelair": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan Alat Laboratorium": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan Alat Elektronik": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang kelas": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang laboratorium": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang perpustakaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang media": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang Kepala Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang Guru": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang Tata Usaha": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang aula": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang BP/BK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Ruang Ibadah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Kamar mandi/wc guru/karyawan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Kamar mandi/wc siswa": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Taman dan Lapangan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pemeliharaan dan Perbaikan Pagar": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pembangunan WC/Sanitasi": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pemeliharaan Sarana dan Prasarana Madrasah"
+   },
+   "Pembelian/Perawatan Alat Multi Media Pembelajaran": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
+   },
+   "Instalasi telepon": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
+   },
+   "Pengadaan genset": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
+   },
+   "Pemasangan instalasi air baru": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
+   },
+   "Pemeliharaan Website": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/Perawatan Alat Multi Media Pembelajaran"
+   },
+   "Pembelian laptop atau personal computer": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/sewa saran/perlengkapan/peralatan Penunjang Kegiatan Pembelajaran"
+   },
+   "Pengadaan bahan alat pendukung e-learning": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR SARANA DAN PRASARANA",
+      "Nama Kegiatan": "Pembelian/sewa saran/perlengkapan/peralatan Penunjang Kegiatan Pembelajaran"
+   },
+   "Pendataan Pendidikan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Usaha Kesehatan Sekolah (UKS), peralatan dan/atau obat-obatan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Penyusunan Evaluasi Diri Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Penyusunan Profil Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pelaksanaan Rapat Kerja Kepala Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pembuatan Program Kerja Kepala Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Lokakarya Aplikasi Manajemen Berbasis Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Kajian-kajian yang sesuai dengan kondisi sekolah masing-masing": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pengelolaan Sekolah Berbasis ICT/TIK": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pengembangan Sistem Informasi Manajemen Sekolah (SIM)": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pengadaan Sarana Administrasi Madrasah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pelaksanaan Supervisi": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Supervisi Non-Akademik": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Supervisi Ekskul": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Monitoring Program Kesiswaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Monitoring kegiatan belajar Mengajar": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Monitoring kegiatan Sarana Prasarana": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Rakor Komite  Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pengelolaan Madrasah"
+   },
+   "Pembayaran honor GBPNS dan Tenaga Kependidikan 15 orang": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pembayaran Honor Rutin"
+   },
+   "Pembayaran honor Pegawai administrasi Pegawai perpustakaan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pembayaran Honor Rutin"
+   },
+   "Pembayaran honor Penjaga Madrasah, Satpam, Petugas Kebersihan @ 2 orang": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pembayaran Honor Rutin"
+   },
+   "Pembayaran honor Operator data, Bendahara, Operator EMIS, Operator aplikasi, dan Pengelola Keuangan sebagai tugas tambahan untuk non PNS": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PENGELOLAAN",
+      "Nama Kegiatan": "Pembayaran Honor Rutin"
+   },
+   "Pembayaran tagihan telepon": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Pembayaran tagihan listrik": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Pembayaran tagihan air": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Pembayaran tagihan internet": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Pembayaran Retribusi keamanan dan sampah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Pembayaran sewa sarana dan prasarana sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Langganan daya dan jasa"
+   },
+   "Penyusunan Laporan Biaya Operasional Sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   },
+   "Penyusunan Laporan Keuangan Sekolah/Madrasah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   },
+   "Penyusunan Standar Biaya Sekolah/Madrasah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   },
+   "Pelaporan dan penjilidan": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   },
+   "Penyediaan media informasi sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   },
+   "Sosialisasi keuangan sekolah": {
+      "Kode Kegiatan": "-",
+      "Standar Nasional Pendidikan": "STANDAR PEMBIAYAAN",
+      "Nama Kegiatan": "Pengelolaan Keuangan Sekolah"
+   }
+}
