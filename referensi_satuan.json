@@ -1,0 +1,272 @@
+[
+ {
+   "Nama Satuan": "botol",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Sirup, kecap, air minum."
+ },
+ {
+   "Nama Satuan": "box",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Susu, kado, nasi kotak, sepatu."
+ },
+ {
+   "Nama Satuan": "bungkus",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Nasi rames, snack, mie instan satuan."
+ },
+ {
+   "Nama Satuan": "dos",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Kardus mie instan, air mineral gelas, kemasan besar."
+ },
+ {
+   "Nama Satuan": "galon",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Air mineral isi ulang."
+ },
+ {
+   "Nama Satuan": "jerigen",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Minyak goreng curah, bensin, deterjen cair."
+ },
+ {
+   "Nama Satuan": "kaleng",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Sarden, susu kental manis, cat, minuman soda."
+ },
+ {
+   "Nama Satuan": "kotak",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Susu, kado, nasi kotak, sepatu."
+ },
+ {
+   "Nama Satuan": "pak",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Rokok, gula, tisu, kertas foto."
+ },
+ {
+   "Nama Satuan": "sachet",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Sampo, kopi instan, saus, kecap (kemasan mini)."
+ },
+ {
+   "Nama Satuan": "strip",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Obat-obatan (pil/tablet)."
+ },
+ {
+   "Nama Satuan": "tabung",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Gas LPG, oksigen."
+ },
+ {
+   "Nama Satuan": "tube",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Pasta gigi, lem, salep, krim wajah."
+ },
+ {
+   "Nama Satuan": "zak",
+   "Kategori": "Kemasan (Wadah)",
+   "Contoh Penggunaan": "Semen, beras (karung besar), pupuk."
+ },
+ {
+   "Nama Satuan": "buku",
+   "Kategori": "Kertas & Buku",
+   "Contoh Penggunaan": "Buku tulis, buku cetak."
+ },
+ {
+   "Nama Satuan": "eks",
+   "Kategori": "Kertas & Buku",
+   "Contoh Penggunaan": "Koran, majalah, dokumen cetak."
+ },
+ {
+   "Nama Satuan": "lembar",
+   "Kategori": "Kertas & Buku",
+   "Contoh Penggunaan": "Kertas HVS, uang kertas, fotokopi."
+ },
+ {
+   "Nama Satuan": "rim",
+   "Kategori": "Kertas & Buku",
+   "Contoh Penggunaan": "Kertas (1 rim = 500 lembar)."
+ },
+ {
+   "Nama Satuan": "batang",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Rokok, sabun batangan, cokelat, kayu."
+ },
+ {
+   "Nama Satuan": "butir",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Telur, kelereng, kelapa."
+ },
+ {
+   "Nama Satuan": "ikat",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Sayuran (bayam, kangkung), rambutan."
+ },
+ {
+   "Nama Satuan": "papan",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Petai, tempe daun."
+ },
+ {
+   "Nama Satuan": "sisir",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Pisang (satu deret)."
+ },
+ {
+   "Nama Satuan": "siung",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Bawang merah, bawang putih."
+ },
+ {
+   "Nama Satuan": "tandan",
+   "Kategori": "Makanan & Alam",
+   "Contoh Penggunaan": "Pisang (satu pohon), kelapa sawit."
+ },
+ {
+   "Nama Satuan": "buah",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Barang umum (meja, kursi, apel)."
+ },
+ {
+   "Nama Satuan": "kegiatan",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Satuan untuk sebuah acara (misal: 1 kegiatan sosialisasi)."
+ },
+ {
+   "Nama Satuan": "lomba",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Satuan untuk event perlombaan."
+ },
+ {
+   "Nama Satuan": "orang",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Jumlah manusia (peserta, tenaga kerja)."
+ },
+ {
+   "Nama Satuan": "paket",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Gabungan beberapa barang/jasa (paket sembako, paket wisata)."
+ },
+ {
+   "Nama Satuan": "pcs",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Satuan eceran untuk barang apa saja (baut, mainan)."
+ },
+ {
+   "Nama Satuan": "unit",
+   "Kategori": "Satuan Umum",
+   "Contoh Penggunaan": "Kendaraan, mesin, elektronik, unit rumah/apartemen."
+ },
+ {
+   "Nama Satuan": "gulung",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Kain tekstil, kabel, tisu toilet, selotip."
+ },
+ {
+   "Nama Satuan": "kodi",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Kain, pakaian grosir (1 kodi = 20 buah/potong)."
+ },
+ {
+   "Nama Satuan": "lusin",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Piring, gelas, sendok (1 lusin = 12 buah)."
+ },
+ {
+   "Nama Satuan": "pasang",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Sepatu, sandal, anting, sarung tangan."
+ },
+ {
+   "Nama Satuan": "potong",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Baju, celana, kain."
+ },
+ {
+   "Nama Satuan": "roll",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Kain tekstil, kabel, tisu toilet, selotip."
+ },
+ {
+   "Nama Satuan": "set",
+   "Kategori": "Tekstil & Kelompok",
+   "Contoh Penggunaan": "Barang berpasangan/lengkap (set alat makan, set kunci)."
+ },
+ {
+   "Nama Satuan": "colt",
+   "Kategori": "Transportasi",
+   "Contoh Penggunaan": "Satuan muatan mobil bak terbuka (misal: pasir 1 colt)."
+ },
+ {
+   "Nama Satuan": "trip",
+   "Kategori": "Transportasi",
+   "Contoh Penggunaan": "Perjalanan (misal: biaya sewa truk 1 trip/sekali jalan)."
+ },
+ {
+   "Nama Satuan": "feet",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Ketinggian (penerbangan), panjang pipa/kabel."
+ },
+ {
+   "Nama Satuan": "kg",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Berat (beras, gula, daging)."
+ },
+ {
+   "Nama Satuan": "kubik",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Volume (pasir, kayu, beton cor)."
+ },
+ {
+   "Nama Satuan": "liter",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Volume cairan (bensin, minyak, air)."
+ },
+ {
+   "Nama Satuan": "m2",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Luas tanah, luas bangunan, keramik, karpet."
+ },
+ {
+   "Nama Satuan": "meter",
+   "Kategori": "Ukuran Fisik",
+   "Contoh Penggunaan": "Panjang (kain, tanah, kabel)."
+ },
+ {
+   "Nama Satuan": "bulan",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Durasi bulanan (gaji, sewa kost)."
+ },
+ {
+   "Nama Satuan": "hari",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Durasi harian."
+ },
+ {
+   "Nama Satuan": "jam",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Durasi singkat (sewa studio, lembur)."
+ },
+ {
+   "Nama Satuan": "OB",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Upah tenaga kerja dihitung per orang per bulan."
+ },
+ {
+   "Nama Satuan": "OH",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Upah tenaga kerja dihitung per orang per hari."
+ },
+ {
+   "Nama Satuan": "OK",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Upah tenaga kerja dihitung per orang per satu kegiatan."
+ },
+ {
+   "Nama Satuan": "semester",
+   "Kategori": "Waktu & Jasa (HR)",
+   "Contoh Penggunaan": "Periode 6 bulan (sekolah, kuliah, laporan keuangan)."
+ }
+]
