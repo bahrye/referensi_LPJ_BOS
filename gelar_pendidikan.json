@@ -1,0 +1,272 @@
+[
+  {
+    "No": "1",
+    "Bidang Studi": "Pendidikan",
+    "Gelar": "S.Tr.Pd.",
+    "Kepanjangan": "Sarjana Terapan Pendidikan"
+  },
+  {
+    "No": "2",
+    "Bidang Studi": "Teknik",
+    "Gelar": "S.Tr.T.",
+    "Kepanjangan": "Sarjana Terapan Teknik"
+  },
+  {
+    "No": "3",
+    "Bidang Studi": "Ekonomi / Bisnis",
+    "Gelar": "S.Tr.Ak.",
+    "Kepanjangan": "Sarjana Terapan Akuntansi"
+  },
+  {
+    "No": "4",
+    "Bidang Studi": "Manajemen",
+    "Gelar": "S.Tr.M.",
+    "Kepanjangan": "Sarjana Terapan Manajemen"
+  },
+  {
+    "No": "5",
+    "Bidang Studi": "Komputer",
+    "Gelar": "S.Tr.Kom.",
+    "Kepanjangan": "Sarjana Terapan Komputer"
+  },
+  {
+    "No": "6",
+    "Bidang Studi": "Pariwisata",
+    "Gelar": "S.Tr.Par.",
+    "Kepanjangan": "Sarjana Terapan Pariwisata"
+  },
+  {
+    "No": "7",
+    "Bidang Studi": "Kesehatan",
+    "Gelar": "S.Tr.Kes.",
+    "Kepanjangan": "Sarjana Terapan Kesehatan"
+  },
+  {
+    "No": "8",
+    "Bidang Studi": "Administrasi",
+    "Gelar": "S.Tr.A.P.",
+    "Kepanjangan": "Sarjana Terapan Administrasi Publik"
+  },
+  {
+    "No": "9",
+    "Bidang Studi": "Pendidikan",
+    "Gelar": "S.Pd.",
+    "Kepanjangan": "Sarjana Pendidikan"
+  },
+  {
+    "No": "10",
+    "Bidang Studi": "Pendidikan Islam",
+    "Gelar": "S.Pd.I",
+    "Kepanjangan": "Sarjana Pendidikan Islam"
+  },
+  {
+    "No": "11",
+    "Bidang Studi": "Hukum",
+    "Gelar": "S.H.",
+    "Kepanjangan": "Sarjana Hukum"
+  },
+  {
+    "No": "12",
+    "Bidang Studi": "Ekonomi",
+    "Gelar": "S.E.",
+    "Kepanjangan": "Sarjana Ekonomi"
+  },
+  {
+    "No": "13",
+    "Bidang Studi": "Manajemen",
+    "Gelar": "S.M.",
+    "Kepanjangan": "Sarjana Manajemen"
+  },
+  {
+    "No": "14",
+    "Bidang Studi": "Akuntansi",
+    "Gelar": "S.Ak.",
+    "Kepanjangan": "Sarjana Akuntansi"
+  },
+  {
+    "No": "15",
+    "Bidang Studi": "Teknik",
+    "Gelar": "S.T.",
+    "Kepanjangan": "Sarjana Teknik"
+  },
+  {
+    "No": "16",
+    "Bidang Studi": "Komputer",
+    "Gelar": "S.Kom.",
+    "Kepanjangan": "Sarjana Komputer"
+  },
+  {
+    "No": "17",
+    "Bidang Studi": "Sistem Informasi",
+    "Gelar": "S.SI.",
+    "Kepanjangan": "Sarjana Sistem Informasi"
+  },
+  {
+    "No": "18",
+    "Bidang Studi": "Pertanian",
+    "Gelar": "S.P.",
+    "Kepanjangan": "Sarjana Pertanian"
+  },
+  {
+    "No": "19",
+    "Bidang Studi": "Peternakan",
+    "Gelar": "S.Pt.",
+    "Kepanjangan": "Sarjana Peternakan"
+  },
+  {
+    "No": "20",
+    "Bidang Studi": "Kedokteran",
+    "Gelar": "S.Ked.",
+    "Kepanjangan": "Sarjana Kedokteran"
+  },
+  {
+    "No": "21",
+    "Bidang Studi": "Keperawatan",
+    "Gelar": "S.Kep.",
+    "Kepanjangan": "Sarjana Keperawatan"
+  },
+  {
+    "No": "22",
+    "Bidang Studi": "Farmasi",
+    "Gelar": "S.Farm.",
+    "Kepanjangan": "Sarjana Farmasi"
+  },
+  {
+    "No": "23",
+    "Bidang Studi": "Psikologi",
+    "Gelar": "S.Psi.",
+    "Kepanjangan": "Sarjana Psikologi"
+  },
+  {
+    "No": "24",
+    "Bidang Studi": "Sastra",
+    "Gelar": "S.S.",
+    "Kepanjangan": "Sarjana Sastra"
+  },
+  {
+    "No": "25",
+    "Bidang Studi": "Ilmu Sosial",
+    "Gelar": "S.Sos.",
+    "Kepanjangan": "Sarjana Sosial"
+  },
+  {
+    "No": "26",
+    "Bidang Studi": "Ilmu Politik",
+    "Gelar": "S.IP.",
+    "Kepanjangan": "Sarjana Ilmu Politik"
+  },
+  {
+    "No": "27",
+    "Bidang Studi": "Komunikasi",
+    "Gelar": "S.I.Kom.",
+    "Kepanjangan": "Sarjana Ilmu Komunikasi"
+  },
+  {
+    "No": "28",
+    "Bidang Studi": "Agama Islam",
+    "Gelar": "S.Ag.",
+    "Kepanjangan": "Sarjana Agama"
+  },
+  {
+    "No": "29",
+    "Bidang Studi": "Administrasi Publik",
+    "Gelar": "S.A.P.",
+    "Kepanjangan": "Sarjana Administrasi Publik"
+  },
+  {
+    "No": "30",
+    "Bidang Studi": "Pendidikan",
+    "Gelar": "M.Pd.",
+    "Kepanjangan": "Magister Pendidikan"
+  },
+  {
+    "No": "31",
+    "Bidang Studi": "Pendidikan Islam",
+    "Gelar": "M.Pd.I",
+    "Kepanjangan": "Magister Pendidikan Islam"
+  },
+  {
+    "No": "32",
+    "Bidang Studi": "Hukum",
+    "Gelar": "M.H.",
+    "Kepanjangan": "Magister Hukum"
+  },
+  {
+    "No": "33",
+    "Bidang Studi": "Manajemen",
+    "Gelar": "M.M.",
+    "Kepanjangan": "Magister Manajemen"
+  },
+  {
+    "No": "34",
+    "Bidang Studi": "Akuntansi",
+    "Gelar": "M.Ak.",
+    "Kepanjangan": "Magister Akuntansi"
+  },
+  {
+    "No": "35",
+    "Bidang Studi": "Teknik",
+    "Gelar": "M.T.",
+    "Kepanjangan": "Magister Teknik"
+  },
+  {
+    "No": "36",
+    "Bidang Studi": "Komputer",
+    "Gelar": "M.Kom.",
+    "Kepanjangan": "Magister Komputer"
+  },
+  {
+    "No": "37",
+    "Bidang Studi": "Pertanian",
+    "Gelar": "M.P.",
+    "Kepanjangan": "Magister Pertanian"
+  },
+  {
+    "No": "38",
+    "Bidang Studi": "Psikologi",
+    "Gelar": "M.Psi.",
+    "Kepanjangan": "Magister Psikologi"
+  },
+  {
+    "No": "39",
+    "Bidang Studi": "Sosial",
+    "Gelar": "M.Sos.",
+    "Kepanjangan": "Magister Sosial"
+  },
+  {
+    "No": "40",
+    "Bidang Studi": "Ilmu Politik",
+    "Gelar": "M.IP.",
+    "Kepanjangan": "Magister Ilmu Politik"
+  },
+  {
+    "No": "41",
+    "Bidang Studi": "Komunikasi",
+    "Gelar": "M.I.Kom.",
+    "Kepanjangan": "Magister Ilmu Komunikasi"
+  },
+  {
+    "No": "42",
+    "Bidang Studi": "Administrasi Publik",
+    "Gelar": "M.A.P.",
+    "Kepanjangan": "Magister Administrasi Publik"
+  },
+  {
+    "No": "43",
+    "Bidang Studi": "Agama",
+    "Gelar": "M.Ag.",
+    "Kepanjangan": "Magister Agama"
+  },
+  {
+    "No": "44",
+    "Bidang Studi": "Kesehatan",
+    "Gelar": "M.Kes.",
+    "Kepanjangan": "Magister Kesehatan"
+  },
+  {
+    "No": "45",
+    "Bidang Studi": "Semua bidang",
+    "Gelar": "Dr.",
+    "Kepanjangan": "Doktor"
+  }
+]
