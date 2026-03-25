@@ -1,0 +1,492 @@
+[
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511138",
+    "jenis": "Belanja Tunjangan Khusus Papua PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Khusus Papua PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511111",
+    "jenis": "Belanja Gaji Pokok PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Gaji Pokok PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511119",
+    "jenis": "Belanja Pembulatan Gaji PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Pembulatan Gaji PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511121",
+    "jenis": "Belanja Tunjangan Suami/Istri PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Suami/Istri PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511122",
+    "jenis": "Belanja Tunjangan Anak PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Anak PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511123",
+    "jenis": "Belanja Tunjangan Struktural PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Struktural PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511124",
+    "jenis": "Belanja Tunjangan Fungsional PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Fungsional PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511125",
+    "jenis": "Belanja Tunjangan PPh PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan PPh PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511126",
+    "jenis": "Belanja Tunjangan Beras PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Beras PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511127",
+    "jenis": "Belanja Tunjangan Kemahalan PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Kemahalan PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511128",
+    "jenis": "Belanja Tunjangan Lauk pauk PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Lauk pauk PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511129",
+    "jenis": "Belanja Uang Makan PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Uang Makan PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511131",
+    "jenis": "Belanja Tunjangan Perbaikan Penghasilan PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Perbaikan Penghasilan PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511132",
+    "jenis": "Belanja Tunjangan Cacat PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Cacat PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511133",
+    "jenis": "Belanja Tunjangan Khusus Peralihan PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Khusus Peralihan PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511134",
+    "jenis": "Belanja Tunjangan Kompensasi Kerja PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Kompensasi Kerja PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511135",
+    "jenis": "Belanja Tunjangan Daerah Terpencil/Sangat Terpencil PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Daerah Terpencil/Sangat Terpencil PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511136",
+    "jenis": "Belanja Tunjangan Guru/Dosen/PNS yang Dipekerjakan pada Sekolah/ PT Swasta/ Badan/Komisi",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Guru/Dosen/PNS yang Dipekerjakan pada Sekolah/ PT Swasta/ Badan/Komisi"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511137",
+    "jenis": "Belanja Tunjangan Tugas Belajar Tenaga Pengajar Biasa pada PT untuk Mengikuti Pendidikan Pasca Sarjana PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Tugas Belajar Tenaga Pengajar Biasa pada PT untuk Mengikuti Pendidikan Pasca Sarjana PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511151",
+    "jenis": "Belanja Tunjangan Umum PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Umum PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511152",
+    "jenis": "Belanja Tunjangan Profesi Guru",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Profesi Guru"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511153",
+    "jenis": "Belanja Tunjangan Profesi Dosen",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Profesi Dosen"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511154",
+    "jenis": "Belanja Tunjangan Kehormatan Profesor",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Kehormatan Profesor"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511155",
+    "jenis": "Belanja Tunjangan Tambahan Penghasilan Guru PNS",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Tambahan Penghasilan Guru PNS"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511156",
+    "jenis": "Belanja Tunjangan Khusus Guru/Dosen",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Khusus Guru/Dosen"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511157",
+    "jenis": "Belanja Tunjangan Kemahalan Hakim",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Kemahalan Hakim"
+  },
+  {
+    "kode_kategori": "511",
+    "kategori": "Belanja Gaji dan Tunjangan ",
+    "kode_jenis": "511158",
+    "jenis": "Belanja Tunjangan Hakim Ad Hoc",
+    "deskripsi": "Digunakan untuk mengalokasikan Tunjangan Hakim Ad Hoc"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521111",
+    "jenis": "Belanja Keperluan Perkantoran",
+    "deskripsi": "Digunakan untuk mencatat membiayai keperluan sehari-hari perkantoran yang secara langsung menunjang kegiatan operasional Kementerian negara/ lembaga, namun tidak\nmenghasilkan barang persediaan yang terdiri antara lain :\n- Satuan biaya yang dikaitkan dengan jumlah pegawai yaitu langganan surat kabar / berita /majalah, biaya minum / makanan kecil untuk rapat, biaya penerimaan tamu.\n- Satuan biaya yang tidak dikaitkan dengan jumlah pegawai antara lain biaya satpam/pengaman kantor, cleaning service, sopir, tenaga lepas (yang dipekerjakan secara kontraktual), internet, pengurusan penggantian sertifikat tanah yang hilang, pembayaran PBB.\n- Digunakan untuk mencatat membiayai pengadaan/penggantian inventaris yang berhubungan dengan penyelenggaraan administrasi kantor/satker di bawah nilai kapitalisasi "
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521115",
+    "jenis": "Belanja Honor Operasional Satuan Kerja",
+    "deskripsi": "Digunakan untuk Honor tidak tetap yang digunakan untuk kegiatan yang terkait dengan operasional kegiatan satuan kerja seperti, honor pejabat kuasa pengguna anggaran, honor pejabat pembuat komitmen, honor pejabat penguji SPP dan penanda tangan SPM, Honor Bendahara Pengeluaran / Pemegang Uang Muka, Honor Staf Pengelola Keuangan, Honor Pengelola PNBP (honor atasan langsung, bendahara dan sekretariat), Honor Pejabat Pengadaan, Honor Pejabat Penerima Hasil Pekerjaan, Honor Tim SAI (Pengelola SAK dan SIMAK-BMN). Honor Operasional Satuan Kerja merupakan honor yang menunjang kegiatan operasional yang bersangkutan dan pembayaran honornya dilakukan secara terus menerus dari awal sampai dengan akhir tahun anggaran. "
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521119",
+    "jenis": "Belanja Barang Operasional Lainnya",
+    "deskripsi": "Digunakan untuk membiayai pengadaan barang yang tidak dapat ditampung dalam mata anggaran 521111, 521112, 521113, 521114 dalam rangka kegiatan operasional"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521211",
+    "jenis": "Belanja Bahan",
+    "deskripsi": "Digunakan untuk pembayaran biaya bahan pendukung kegiatan (yang habis dipakai) seperti: ATK, Konsumsi/Bahan Makanan, Bahan Cetakan, Dokumentasi, Spanduk, Biaya Fotokopi, yang diperlukan dalam pelaksanaan kegiatan non operasional seperti pameran, seminar, sosialisasi, rapat dan lain-lain terkait langsung dengan output suatu kegiatan dan tidak menghasilkan barang persediaan"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521213",
+    "jenis": "Belanja Honor Output Kegiatan",
+    "deskripsi": "Digunakan untuk honor tidak tetap yang dibayarkan kepada pegawai yang melaksanakan kegiatan dan terkait dengan output seperti honor untuk Honor Tim Pelaksana Kegiatan (pengarah, penanggung jawab, koordinator, ketua, sekretaris, anggota dan staf sekretariat), Honor Output Kegiatan merupakan honor yang dibayarkan atas pelaksanaan kegiatan yang insidentil dan dapat dibayarkan tidak terus menerus dalam satu tahun"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521219",
+    "jenis": "Belanja Barang Non Operasional Lainnya",
+    "deskripsi": "Digunakan untuk pengeluaran yang tidak dapat ditampung dalam kelompok Akun Belanja Barang Non Operasional. Belanja Barang Non Operasional Lainnya dapat digunakan untuk biaya-biaya Crash Program. Belanja Barang Non Operasional Lainnya dapat digunakan untuk pemberian beasiswa kepada pegawai di lingkup K/L atau di luar lingkup satker. Belanja Barang Non Operasional Lainnya tidak menghasilkan barang persediaan serta Bantuan Operasional Sekolah pada Madrasah Swasta"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521811",
+    "jenis": "Belanja Barang Persediaan Barang Konsumsi",
+    "deskripsi": "Digunakan untuk mencatat belanja barang yang menghasilkan persediaan berupa barang konsumsi, seperti ATK, Bahan Cetakan, Alat-alat Rumah Tangga, dan lain-lain yang menghasilkan persediaan \n**Catatan** :\n1. Pada prinsipnya, persediaan tidak dapat dilihat dari bentuk barangnya, melainkan niat awal (intention) pada saat penyusunan perencanaan kegiatan dan penyusunan RKAKLnya, sehingga untuk barang-barang yang memang direncanakan habis pada satu kegiatan tidak dialokasikan dari Belanja Barang Persediaan dan tidak menjadi persediaan. Suatu barang dapat digolongkan sebagai barang persediaan apabila perencanaan pengadaan barang tersebut bersifat kontinyu atau berkelanjutan, tidak hanya untuk satu kali kegiatan saja.\n2. Niat awal (intention) diwujudkan dalam pernyataan narasi pada Term of Reference setiap kegiatan.\n3. Suatu barang dapat dikategorikan sebagai persediaan bukan terbatas hanya pada suatu Output Layanan Perkantoran saja (2127.994, 2128.994 dan 2135.994), namun bisa terdapat pada output lain sepanjang memenuhi kriteria barang persediaan. "
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521813",
+    "jenis": "Belanja Barang Persediaan Pita Cukai, Materai dan Leges",
+    "deskripsi": "Digunakan untuk mencatat belanja barang yang menghasilkan persediaan berupa Materai ( Jika satker membeli materai dan tidak habis dalam satu kali pemakaian )"
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521131",
+    "jenis": "Belanja Barang Operasional - Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja Barang Operasional sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521241",
+    "jenis": "Belanja Barang Non Operasional - Penanganan Pandemi",
+    "deskripsi": "Digunakan untuk mencatat Belanja Barang Non Operasional sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521841",
+    "jenis": "Belanja Barang Persediaan - Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja Barang yang menghasilkan persediaan sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521252",
+    "jenis": "Belanja Peralatan dan Mesin - Ekstrakomptabel",
+    "deskripsi": "Digunakan untuk mencatat pengadaan Peralatan dan Mesin di bawah nilai kapitalisasi."
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521254",
+    "jenis": "Belanja Aset Tetap Lainnya - Ekstrakomptabel",
+    "deskripsi": "Digunakan untuk mencatat pengadaan Aset Tetap Lainnya antara lain berupa hewan, ikan dan tanaman."
+  },
+  {
+    "kode_kategori": "521",
+    "kategori": "Belanja Barang",
+    "kode_jenis": "521832",
+    "jenis": "Belanja Barang Persediaan Lainnya",
+    "deskripsi": "Digunakan untuk mencatat belanja barang yang menghasilkan persediaan untuk tujuan strategis/berjaga-jaga."
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522111",
+    "jenis": "Belanja Langganan Listrik",
+    "deskripsi": "Digunakan untuk pembayaran langganan listrik dan pembelian pulsa listrik termasuk belanja apabila terjadi denda atas keterlambatan pembayaran tagihan langganan listrik "
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522112",
+    "jenis": "Belanja Langganan Telepon",
+    "deskripsi": "Belanja langganan telepon, termasuk belanja apabila terjadi denda atas keterlambatan pembayaran tagihan langganan telepon serta internet yang tagihannya bersama tagihan langganan telepon."
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522113",
+    "jenis": "Belanja Langganan Air",
+    "deskripsi": "Belanja langganan air, termasuk belanja apabila terjadi denda atas keterlambatan pembayaran tagihan langganan air"
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522119",
+    "jenis": "Belanja Langganan Daya dan Jasa Lainnya",
+    "deskripsi": "Belanja langganan daya dan jasa lainnya, termasuk belanja apabila terjadi denda atas keterlambatan pembayaran tagihan langganan daya dan jasa lainnya termasuk untuk pemasangan baru, perbaikan instalasi dan penambahan daya listrik"
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522141",
+    "jenis": "Belanja Sewa",
+    "deskripsi": "Digunakan untuk pembayaran sewa (misalnya sewa kantor/gedung/ruangan, kendaraan atau sewa lainnya) "
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522151",
+    "jenis": "Belanja Jasa Profesi",
+    "deskripsi": "Belanja untuk pembayaran jasa atas keahlian yang dimiliki dan diberikan kepada PNS dan non PNS sebagai narasumber, pembicara, praktisi, dan pakar dalam kegiatan di luar direktorat atau Eselon I pegawai yang bersangkutan untuk kepentingan dinas. Contoh : honor narasumber, pembicara, dan moderator. Honorarium narasumber pegawai negeri dapat diberikan dengan ketentuan :\n- Berasal dari luar lingkup unit eselon I penyelenggara;\n- Berasal dari lingkup unit eselon I penyelenggara sepanjang peserta yang menjadi sasaran kegiatan berasal dari luar lingkup unit eselon I penyelenggara /masyarakat\nUnit Eselon yang dimaksudkan adalah pada lingkup Struktur Organisasi bukan pada Struktur Anggaran, Contoh : Kepala Bidang Pendidikan Islam memberikan Materi pada Kegiatan yang dihadiri oleh Kepala-Kepala Madrasah bisa dibayarkan Jasa Profesi."
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522192",
+    "jenis": "Belanja  Jasa  - Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja Jasa sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "522",
+    "kategori": "Belanja Jasa",
+    "kode_jenis": "522191",
+    "jenis": "Belanja Jasa Lainnya",
+    "deskripsi": "Digunakan untuk pembayaran jasa yang tidak bisa ditampung pada kelompok akun 52211, 52212,\n52213, 52214, dan 52215."
+  },
+  {
+    "kode_kategori": "523",
+    "kategori": "Belanja Pemeliharaan",
+    "kode_jenis": "523111",
+    "jenis": "Belanja Pemeliharaan Gedung dan Bangunan",
+    "deskripsi": "Digunakan Untuk Pengeluaran pemeliharaan/perbaikan yang dilaksanakan sesuai dengan Standar Biaya Umum. Dalam rangka mempertahankan gedung dan bangunan kantor dengan tingkat kerusakan kurang dari atau sampai dengan 2% dan Pemeliharaan/perawatan halaman/taman gedung/kantor agar berada dalam kondisi normal (tidak memenuhi syarat kapitalisasi aset tetap gedung dan bangunan). Untuk Gedung Nilai Kapitalisasi adalah Rp. 10.000.000.- (Maksimal)"
+  },
+  {
+    "kode_kategori": "523",
+    "kategori": "Belanja Pemeliharaan",
+    "kode_jenis": "523112",
+    "jenis": "Belanja Barang Persediaan Pemeliharaan Gedung dan Bangunan",
+    "deskripsi": "Digunakan untuk pembelian barang pemeliharaan gedung dan bangunan tidak habis dalam sekali pakai, sifatnya cadangan atau berjaga-jaga"
+  },
+  {
+    "kode_kategori": "523",
+    "kategori": "Belanja Pemeliharaan",
+    "kode_jenis": "523121",
+    "jenis": "Belanja Pemeliharaan Peralatan dan Mesin",
+    "deskripsi": "Digunakan untuk mencatat pemeliharaan / perbaikan untuk mempertahankan peralatan dan mesin agar berada dalam kondisi normal yang tidak memenuhi syarat kriteria kapitalisasi aset tetap peralatan dan mesin, Untuk Peralatan dan Mesin Nilai Kapitalisasi adalah Rp. 300.000.- (Maksimal)"
+  },
+  {
+    "kode_kategori": "523",
+    "kategori": "Belanja Pemeliharaan",
+    "kode_jenis": "523123",
+    "jenis": "Belanja Barang Persediaan Untuk Pemeliharaan Peralatan dan Mesin",
+    "deskripsi": "Digunakan untuk pembelian barang pemeliharaan peralatan dan mesin tidak habis dalam sekali pakai, sifatnya cadangan atau berjaga-jaga"
+  },
+  {
+    "kode_kategori": "523",
+    "kategori": "Belanja Pemeliharaan",
+    "kode_jenis": "523114",
+    "jenis": "Belanja Pemeliharaan Gedung dan Bangunan - Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja Pemeliharaan Gedung dan Bangunan sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "524",
+    "kategori": "Belanja Perjalanan Dinas",
+    "kode_jenis": "524111",
+    "jenis": "Belanja Perjalanan Dinas Biasa",
+    "deskripsi": "Digunakan untuk perjalanan dinas seperti perjalanan dinas dalam rangka pembinaan / konsultasi, perjalanan dinas dalam rangka pengawasan / pemeriksaan, mutasi pegawai, mutasi pension, pengiriman jenasah"
+  },
+  {
+    "kode_kategori": "524",
+    "kategori": "Belanja Perjalanan Dinas",
+    "kode_jenis": "524113",
+    "jenis": "Belanja Perjalanan Dinas Dalam Kota",
+    "deskripsi": "Digunakan untuk Pengeluaran untuk perjalanan dinas yang dilaksanakan di dalam kota yang tidak melewati batas kota sesuai dengan peraturan menteri keuangan yang mengatur mengenai perjalanan dinas dalam negeri bagi pejabat Negara, pegawai negeri, dan pegawai tidak tetap. Perjalanan dinas jabatan yang dilaksanakan di dalam kota"
+  },
+  {
+    "kode_kategori": "524",
+    "kategori": "Belanja Perjalanan Dinas",
+    "kode_jenis": "524114",
+    "jenis": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+    "deskripsi": "Digunakan untuk Pengeluaran untuk perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota Satuan Kerja (Satker) penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara, serta yang dilaksanakan di dalam kota Satuan Kerja (Satker) peserta dengan biaya perjalanan dinas yang ditanggung oleh Satuan Kerja (Satker) peserta, meliputi :\n1) Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;\n2) Biaya paket meeting (halfday/fullday/fullboard);\n3) Uang saku peserta, panitia/moderator dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota termasuk uang saku rapat dalam kantor di luar jam kerja;\n4) Uang harian dan/atau biaya penginapan peserta, panitia / moderator, dan / atau narasumber yang mengalami kesulitan transportasi. "
+  },
+  {
+    "kode_kategori": "524",
+    "kategori": "Belanja Perjalanan Dinas",
+    "kode_jenis": "524119",
+    "jenis": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+    "deskripsi": "Digunakan untuk Pengeluaran untuk perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di luar kota satker penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara, serta yang dilaksanakan di luar kota satker peserta dengan biaya perjalanan dinas yang ditanggung oleh satker peserta, meliputi :\n- Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;\n- Biaya paket meeting (fullboard);\n- Uang saku peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;\n- Uang harian dan/atau biaya penginapan peserta, panitia/moderator, dan/atau narasumber yang mengalami kesulitan transportasi.\nBesaran nilai biaya paket meeting, uang transport, uang saku, dan uang harian mengikuti ketentuan yang diatur dalam Peraturan Menteri Keuangan tentang Standar Biaya Masukan yang berlaku pada tahun anggaran berjalan"
+  },
+  {
+    "kode_kategori": "524",
+    "kategori": "Belanja Perjalanan Dinas",
+    "kode_jenis": "524115",
+    "jenis": "Belanja Perjalanan Dinas - Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja Perjalanan Dinas sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "526",
+    "kategori": "Belanja Barang Untuk Diserahkan Kepada Masyarakat / PEMDA",
+    "kode_jenis": "526131",
+    "jenis": "Belanja Peralatan Dan Mesin Untuk Diserahkan kepada Masyarakat/Pemda dalam bentuk uang Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat Belanja bantuan Pemerintah untuk pengadaan Peralatan dan Mesin untuk diserahkan kepada masyarakat/pemerintah daerah dalam bentuk uang sesuai Peraturan Menteri Keuangan mengenai Mekanisme Pelaksanaan Anggaran Bantuan Pemerintah pada Kementerian Negara/Lembaga dan Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan. Akun ini dicatat dengan menggunakan pendekatan beban dalam akuntansi dan pelaporan."
+  },
+  {
+    "kode_kategori": "526",
+    "kategori": "Belanja Barang Untuk Diserahkan Kepada Masyarakat / PEMDA",
+    "kode_jenis": "526132",
+    "jenis": "Belanja Peralatan Dan Mesin Untuk Diserahkan kepada Masyarakat/Pemda dalam bentuk barang - Penanganan Pandemi COVID- 19",
+    "deskripsi": "Digunakan untuk mencatat Belanja bantuan Pemerintah untuk pengadaan Peralatan dan Mesin untuk diserahkan kepada masyarakat/pemerintah daerah dalam bentuk barang sesuai Peraturan Menteri Keuangan mengenai Mekanisme Pelaksanaan Anggaran Bantuan Pemerintah pada Kementerian Negara/Lembaga dan Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan. Akun ini dicatat dengan menggunakan pendekatan aset dalam akuntansi dan pelaporan."
+  },
+  {
+    "kode_kategori": "526",
+    "kategori": "Belanja Barang Untuk Diserahkan Kepada Masyarakat / PEMDA",
+    "kode_jenis": "526321",
+    "jenis": "Belanja Barang untuk  Bantuan Lainnya Untuk Diserahkan kepada Masyarakat/Pemda dalam bentuk uang  Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat pengeluaran barang bantuan lainnya  untuk  diserahkan kepada masyarakat/pemerintah daerah dalam bentuk uang sesuai Peraturan Menteri Keuangan mengenai Mekanisme Pelaksanaan Anggaran Bantuan Pemerintah pada Kementerian Negara/Lembaga dan Peraturan Menteri Keuangan mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan. Akun ini dicatat dengan menggunakan pendekatan beban dalam akuntansi dan pelaporan."
+  },
+  {
+    "kode_kategori": "526",
+    "kategori": "Belanja Barang Untuk Diserahkan Kepada Masyarakat / PEMDA",
+    "kode_jenis": "526322",
+    "jenis": "Belanja Barang untuk  Bantuan Lainnya Untuk Diserahkan kepada Masyarakat/Pemda dalam bentuk barang - Penanganan Pandemi COVID- 19",
+    "deskripsi": "Belanja Modal Peralatan dan Mesin –   Penanganan Pandemi COVID-19"
+  },
+  {
+    "kode_kategori": "532",
+    "kategori": "Belanja Modal Peralatan dan Mesin",
+    "kode_jenis": "532111",
+    "jenis": "Belanja Modal Peralatan dan Mesin",
+    "deskripsi": "Digunakan untuk mencatat pengadaan peralatan dan mesin yang digunakan dalam pelaksanaan kegiatan antara lain biaya pembelian, biaya pengangkutan, biaya instalasi, serta biaya langsung lainnya untuk memperoleh dan mempersiapkan sampai peralatan dan mesin tersebut siap digunakan. "
+  },
+  {
+    "kode_kategori": "533",
+    "kategori": "Belanja Modal Gedung dan Bangunan",
+    "kode_jenis": "532119",
+    "jenis": "Belanja Modal Gedung dan Bangunan – Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat perolehan gedung dan bangunan sampai dengan siap digunakan meliputi biaya pembelian atau biaya kontruksi, termasuk biaya pengurusan IMB, notaris dan pajak yang dilaksanakan sesuai Peraturan Menteri Keuangan mengenai mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "533",
+    "kategori": "Belanja Modal Gedung dan Bangunan",
+    "kode_jenis": "533119",
+    "jenis": "Belanja Modal Gedung dan Bangunan – Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat perolehan gedung dan bangunan sampai dengan siap digunakan meliputi biaya pembelian atau biaya kontruksi, termasuk biaya pengurusan IMB, notaris dan pajak yang dilaksanakan sesuai Peraturan Menteri Keuangan mengenai mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk Penanganan COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  },
+  {
+    "kode_kategori": "533",
+    "kategori": "Belanja Modal Gedung dan Bangunan",
+    "kode_jenis": "533121",
+    "jenis": "Belanja Penambahan Nilai Gedung dan Bangunan",
+    "deskripsi": "Belanja Modal setelah perolehan gedung dan bangunan yang memperpanjang masa manfaat/umur\nekonomis, atau yang kemungkinan besar memberi manfaat ekonomis di masa yang akan datang\ndalam bentuk peningkatan kapasitas, produksi atau peningkatan standar kinerja; dan memenuhi\nbatasan minimun kapitalisasi sesuai dengan peraturan menteri keuangan yang mengatur batasan\nminimun kapitalisasi."
+  },
+  {
+    "kode_kategori": "533",
+    "kategori": "Belanja Modal Gedung dan Bangunan",
+    "kode_jenis": "533111",
+    "jenis": "Belanja Modal Gedung dan Bangunan",
+    "deskripsi": "Pengeluaran untuk memperoleh gedung dan bangunan secara ontraktual sampai dengan gedung dan bangunan siap digunakan meliputi biaya pembelian atau biaya kontruksi, termasuk biaya pengurusan IMB, notaris dan pajak (kontraktual)."
+  },
+  {
+    "kode_kategori": "536",
+    "kategori": "Belanja Modal Lainnya",
+    "kode_jenis": "536111",
+    "jenis": "Belanja Modal Lainnya",
+    "deskripsi": "Digunakan untuk mencatat memperoleh Aset Tetap Lainnya dan Aset Lainnya yang tidak dapat diklasifikasikan dalam belanja modal tanah, peralatan dan mesin, gedung dan bangunan, jalan, irigasi dan jaringan. Digunakan untuk mencatat memperoleh Aset Tetap Lainnya dan Aset Lainnya sampai dengan siap digunakan. Belanja Modal Lainnya dapat digunakan untuk pengadaan software, pengembangan website, pengadaan lisensi yang memberikan manfaat lebih dari satu tahun baik secara swakelola maupun dikontrakkan kepada Pihak Ketiga. Belanja Modal Lainnya dapat digunakan untuk pembangunan aset tetap renovasi yang akan diserahkan kepada entitas lain dan masih di lingkungan pemerintah pusat. Untuk Aset Tetap Renovasi yang nantinya akan diserahkan kepada entitas lain berupa Gedung dan Bangunan mengikuti ketentuan batasan minimal Kapitalisasi. Termasuk dalam belanja modal lainnya : pengadaan/pembelian barang-barang kesenian, dan koleksi perpustakaan"
+  },
+  {
+    "kode_kategori": "536",
+    "kategori": "Belanja Modal Lainnya",
+    "kode_jenis": "536118",
+    "jenis": "Belanja Modal Lainnya – Penanganan Pandemi COVID-19",
+    "deskripsi": "Digunakan untuk mencatat pengadaan Aset Tetap Lainnya dan Aset Lainnya yang tidak dapat diklasifikasikan dalam belanja modal peralatan dan mesin, gedung dan bangunan, yang dilaksanakan sesuai Peraturan Menteri Keuangan mengenai mengenai Pelaksanaan Kebijakan Keuangan Negara Untuk  Penanganan  COVID-19 Dan/Atau Menghadapi Ancaman Yang Membahayakan Perekonomian Nasional Dan/Atau Stabilitas Sistem Keuangan."
+  }
+]
