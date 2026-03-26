@@ -1,0 +1,57 @@
+[
+  {
+    "id_pajak": "TAX-PPN",
+    "nama_pajak": "PPN (Pajak Pertambahan Nilai)",
+    "kode_akun_pajak": "411211",
+    "kode_jenis_setoran": "900",
+    "tarif_default_persen": 12,
+    "is_dinamis": false,
+    "kategori_objek": "Barang/Jasa",
+    "deskripsi": "Pajak yang dipungut atas transaksi pembelian barang atau jasa dari Pengusaha Kena Pajak (PKP). Bendahara sekolah wajib memungut PPN jika nilai belanja berada di atas batas ketentuan dan rekanan sudah dikukuhkan sebagai PKP. Tarif standar adalah 12% dari Dasar Pengenaan Pajak (DPP). Jika toko/rekanan bukan PKP, pihak sekolah tidak diperkenankan memotong PPN pada transaksi tersebut.",
+    "contoh_penggunaan": "Pembelian laptop untuk lab, buku cetak perpustakaan, atau material bangunan dari toko besar berstatus PKP."
+  },
+  {
+    "id_pajak": "TAX-PPH21",
+    "nama_pajak": "PPh Pasal 21",
+    "kode_akun_pajak": "411121",
+    "kode_jenis_setoran": "100",
+    "tarif_default_persen": 0,
+    "is_dinamis": true,
+    "kategori_objek": "Jasa Perorangan",
+    "deskripsi": "Pajak pemotongan atas penghasilan yang dibayarkan kepada Orang Pribadi (individu) sehubungan dengan pekerjaan, jabatan, jasa, dan kegiatan. Besaran tarifnya bersifat dinamis mengikuti skema Tarif Efektif Rata-rata (TER) yang bergantung pada status PTKP (Penghasilan Tidak Kena Pajak) penerimanya. Jika penerima honor tidak memiliki NPWP, potongan pajaknya dikenakan tarif 20% lebih tinggi dari perhitungan normal.",
+    "contoh_penggunaan": "Membayar honorarium narasumber pelatihan, upah tukang perorangan, atau honor teknisi lepas yang mensetting jaringan sekolah."
+  },
+  {
+    "id_pajak": "TAX-PPH22",
+    "nama_pajak": "PPh Pasal 22",
+    "kode_akun_pajak": "411122",
+    "kode_jenis_setoran": "900",
+    "tarif_default_persen": 1.5,
+    "is_dinamis": false,
+    "kategori_objek": "Barang",
+    "deskripsi": "Pajak pemungutan atas pengadaan atau pembelian barang fisik oleh bendahara instansi pemerintah. Tarif standarnya adalah 1,5% dari nilai pembelian (tidak termasuk PPN) apabila rekanan/toko memiliki NPWP. Jika rekanan tidak memiliki NPWP, tarifnya naik 100% menjadi 3%. Terdapat batas pengecualian untuk transaksi bernilai kecil (misalnya belanja di bawah Rp2.000.000 umumnya dibebaskan dari pungutan PPh 22, tergantung regulasi juknis dana).",
+    "contoh_penggunaan": "Pengadaan seragam siswa, pembelian komputer meja, alat tulis kantor (ATK), atau peralatan kebersihan sekolah."
+  },
+  {
+    "id_pajak": "TAX-PPH23",
+    "nama_pajak": "PPh Pasal 23",
+    "kode_akun_pajak": "411124",
+    "kode_jenis_setoran": "104",
+    "tarif_default_persen": 2,
+    "is_dinamis": false,
+    "kategori_objek": "Jasa Badan Usaha",
+    "deskripsi": "Pajak pemotongan atas penghasilan yang dibayarkan kepada Badan Usaha (seperti CV, PT, atau Firma) atas penyelenggaraan jasa, perawatan aset, atau sewa (selain tanah dan bangunan). Tarif standarnya adalah 2% dari nilai bruto tidak termasuk PPN bagi badan usaha yang memiliki NPWP. Jika badan usaha tersebut tidak ber-NPWP, tarif pemotongannya naik menjadi 4%.",
+    "contoh_penggunaan": "Membayar jasa katering dari CV penyedia makanan, jasa perbaikan server dari perusahaan IT, atau sewa bus pariwisata dari PT."
+  },
+  {
+    "id_pajak": "TAX-PB1",
+    "nama_pajak": "PB1 (Pajak Daerah/Restoran)",
+    "kode_akun_pajak": null,
+    "kode_jenis_setoran": null,
+    "tarif_default_persen": 10,
+    "is_dinamis": false,
+    "kategori_objek": "Konsumsi",
+    "deskripsi": "Pajak yang dipungut oleh Pemerintah Daerah (Kabupaten/Kota) atas konsumsi makanan dan minuman yang disediakan oleh restoran, rumah makan, atau penyedia katering. Makanan jadi yang dibeli sekolah tidak dikenakan PPN Pusat, melainkan tunduk pada Pajak Daerah ini. Tarif maksimal adalah 10% tergantung aturan Peraturan Daerah (Perda) masing-masing. Pembayarannya langsung disetorkan ke Kas Daerah setempat, bukan melalui sistem e-Billing DJP.",
+    "contoh_penggunaan": "Pembelian nasi kotak dari rumah makan, snack siswa dari toko kue lokal, atau konsumsi rapat guru."
+  }
+]
